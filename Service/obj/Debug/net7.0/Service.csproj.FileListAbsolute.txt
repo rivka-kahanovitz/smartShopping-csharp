@@ -1,0 +1,14 @@
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Service.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Service.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Service.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\refint\Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\ref\Service.dll
