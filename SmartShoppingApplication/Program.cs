@@ -1,3 +1,7 @@
+﻿using Microsoft.EntityFrameworkCore;
+using Repository.Entities; // ודאי שה-DbContext שלך נמצא כאן
+using System;
+using Mock;
 
 namespace SmartShoppingApplication
 {
@@ -7,10 +11,12 @@ namespace SmartShoppingApplication
         {
             var builder = WebApplication.CreateBuilder(args);
 
-            // Add services to the container.
+            // 💉 רישום DbContext והתחברות למסד נתונים
+            builder.Services.AddDbContext<DataBase>(options =>
+                options.UseSqlServer(builder.Configuration.GetConnectionString("DefaultConnection")));
 
+            // Add services to the container.
             builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
             builder.Services.AddEndpointsApiExplorer();
             builder.Services.AddSwaggerGen();
 
@@ -24,10 +30,7 @@ namespace SmartShoppingApplication
             }
 
             app.UseHttpsRedirection();
-
             app.UseAuthorization();
-
-
             app.MapControllers();
 
             app.Run();

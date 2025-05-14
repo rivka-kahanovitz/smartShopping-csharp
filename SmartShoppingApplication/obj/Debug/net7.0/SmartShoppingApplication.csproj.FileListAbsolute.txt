@@ -75,3 +75,4 @@ C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פר
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\SmartShoppingApplication\bin\Debug\net7.0\Repository.dll
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\SmartShoppingApplication\bin\Debug\net7.0\Mock.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\SmartShoppingApplication\bin\Debug\net7.0\Repository.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\SmartShoppingApplication\bin\Debug\net7.0\appsettings.json.json

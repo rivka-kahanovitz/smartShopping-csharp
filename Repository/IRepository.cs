@@ -1,13 +1,14 @@
-﻿using System;
+﻿
 using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Repository
 {
-    internal interface IRepository<T>
-    {
-
-    }
+        public interface IRepository<T>
+        {
+            int Create(T item);
+            T Read(int id);
+            bool Update(int id, T item);
+            bool Delete(int id);
+        }
 }
+

@@ -12,3 +12,16 @@ C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פר
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.genruntimeconfig.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\ref\Service.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\SmartShoppingApplication.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\SmartShoppingApplication.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\SmartShoppingApplication.exe
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Mock.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\SmartShoppingApplication.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Common.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Mock.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\Repository.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\SmartShoppingApplication.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\obj\Debug\net7.0\Service.csproj.CopyComplete
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Service\bin\Debug\net7.0\appsettings.json.json

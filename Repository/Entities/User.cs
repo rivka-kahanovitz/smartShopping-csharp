@@ -27,6 +27,6 @@ namespace Repository.Entities
 
         public DateTime CreatedAt { get; set; } = DateTime.UtcNow;
         //דרוש הסבר :)
-        public ICollection<ShoppingList> ShoppingLists { get; set; }
+        public ICollection<ShoppingList>? ShoppingLists { get; set; }
     }
 }

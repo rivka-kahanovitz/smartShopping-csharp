@@ -6,20 +6,18 @@
   "compilationOptions": {},
   "targets": {
     ".NETCoreApp,Version=v7.0": {
-      "Service/1.0.0": {
+      "SmartShoppingApplication/1.0.0": {
         "dependencies": {
-          "Common": "1.0.0",
           "Microsoft.Data.SqlClient": "5.1.4",
           "Microsoft.EntityFrameworkCore": "7.0.15",
           "Microsoft.EntityFrameworkCore.Design": "7.0.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
           "Microsoft.EntityFrameworkCore.Tools": "7.0.15",
           "Mock": "1.0.0",
-          "Repository": "1.0.0",
-          "SmartShoppingApplication": "1.0.0"
+          "Swashbuckle.AspNetCore": "6.7.0"
         },
         "runtime": {
-          "Service.dll": {}
+          "SmartShoppingApplication.dll": {}
         }
       },
       "Azure.Core/1.35.0": {
@@ -613,18 +611,6 @@
           }
         }
       },
-      "Common/1.0.0": {
-        "dependencies": {
-          "Microsoft.Data.SqlClient": "5.1.4",
-          "Microsoft.EntityFrameworkCore": "7.0.15",
-          "Microsoft.EntityFrameworkCore.Design": "7.0.15",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
-          "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
-        },
-        "runtime": {
-          "Common.dll": {}
-        }
-      },
       "Mock/1.0.0": {
         "dependencies": {
           "Microsoft.Data.SqlClient": "5.1.4",
@@ -649,25 +635,11 @@
         "runtime": {
           "Repository.dll": {}
         }
-      },
-      "SmartShoppingApplication/1.0.0": {
-        "dependencies": {
-          "Microsoft.Data.SqlClient": "5.1.4",
-          "Microsoft.EntityFrameworkCore": "7.0.15",
-          "Microsoft.EntityFrameworkCore.Design": "7.0.15",
-          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
-          "Microsoft.EntityFrameworkCore.Tools": "7.0.15",
-          "Mock": "1.0.0",
-          "Swashbuckle.AspNetCore": "6.7.0"
-        },
-        "runtime": {
-          "SmartShoppingApplication.dll": {}
-        }
       }
     }
   },
   "libraries": {
-    "Service/1.0.0": {
+    "SmartShoppingApplication/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
@@ -1141,22 +1113,12 @@
       "path": "system.windows.extensions/6.0.0",
       "hashPath": "system.windows.extensions.6.0.0.nupkg.sha512"
     },
-    "Common/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
     "Mock/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
     },
     "Repository/1.0.0": {
-      "type": "project",
-      "serviceable": false,
-      "sha512": ""
-    },
-    "SmartShoppingApplication/1.0.0": {
       "type": "project",
       "serviceable": false,
       "sha512": ""
