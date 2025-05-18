@@ -20,7 +20,6 @@
     <ProjectReference Include="..\Common\Common.csproj" />
     <ProjectReference Include="..\Mock\Mock.csproj" />
     <ProjectReference Include="..\Repository\Repository.csproj" />
-    <ProjectReference Include="..\SmartShoppingApplication\SmartShoppingApplication.csproj" />
   </ItemGroup>
 
 </Project>

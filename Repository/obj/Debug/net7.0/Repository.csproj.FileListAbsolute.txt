@@ -12,3 +12,18 @@ C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פר
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Repository\obj\Debug\net7.0\ref\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\bin\Debug\net7.0\Repository.deps.json
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\bin\Debug\net7.0\Repository.runtimeconfig.json
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\bin\Debug\net7.0\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\bin\Debug\net7.0\Repository.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.csproj.AssemblyReference.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.AssemblyInfoInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.AssemblyInfo.cs
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.csproj.CoreCompileInputs.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.sourcelink.json
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\refint\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\Repository.genruntimeconfig.cache
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Repository\obj\Debug\net7.0\ref\Repository.dll

@@ -2,7 +2,9 @@
 using Repository.Entities;
 using System.Linq;
 using Mock;
-
+using Service.DTOs;
+using Service;
+using SmartShoppingApplication.Utils;
 namespace SmartShoppingApplication.Controllers
 {
     [ApiController]
@@ -16,58 +18,91 @@ namespace SmartShoppingApplication.Controllers
             _context = context;
         }
 
-        [HttpPost]
-        public ActionResult<User> Create([FromBody] User user)
+        // הרשמת משתמש חדש עם DTO
+        [HttpPost("signup")]
+        public ActionResult<int> Signup([FromForm] UserSignUpDto dto)
         {
+            if (_context.Users.Any(u => u.Email == dto.Email))
+                return BadRequest("Email already exists.");
+
+            var user = new User
+            {
+                Name = dto.Name,
+                Email = dto.Email,
+                Password = PasswordHasher.Hash(dto.Password), // כאן ההצפנה
+                CreatedAt = DateTime.UtcNow
+            };
+
             _context.Users.Add(user);
             _context.SaveChanges();
-            return Ok(user.Id); // מחזיר את המזהה שנוצר
+            return Ok(user.Id);
         }
 
-        [HttpGet("{id}")]
-        public ActionResult<User> Get(int id)
+
+        // התחברות עם DTO
+        [HttpPost("login")]
+        public ActionResult<string> Login([FromForm] UserLoginDto dto)
+        {
+            var user = _context.Users
+                .FirstOrDefault(u => u.Email == dto.Email && u.Password == PasswordHasher.Hash(dto.Password));
+
+            if (user == null)
+                return Unauthorized();
+
+            string secretKey = "YourSuperSecretKey12345"; // כדאי להעביר ל־appsettings.json
+            string token = TokenGenerator.GenerateToken(user.Email, secretKey);
+
+            return Ok(token);
+        }
+
+
+
+        // שאר הקוד – כמו שהיה אצלך בדיוק
+        [HttpGet("{id:int}")]
+        public ActionResult<User> GetById(int id)
         {
             var user = _context.Users.Find(id);
             return user != null ? Ok(user) : NotFound();
         }
 
-        [HttpPut("{id}")]
-        public ActionResult Update(int id, [FromBody] User user)
+        [HttpGet("by-email/{email}")]
+        public ActionResult<User> GetByEmail(string email)
         {
-            var existing = _context.Users.Find(id);
+            var user = _context.Users.FirstOrDefault(u => u.Email == email);
+            return user != null ? Ok(user) : NotFound();
+        }
+
+        [HttpGet("by-password/{password}")]
+        public ActionResult<User> GetByPassword(string password)
+        {
+            var user = _context.Users.FirstOrDefault(u => u.Password == password);
+            return user != null ? Ok(user) : NotFound();
+        }
+
+        [HttpGet("by-name/{name}")]
+        public ActionResult<User> GetByName(string name)
+        {
+            var user = _context.Users.FirstOrDefault(u => u.Name == name);
+            return user != null ? Ok(user) : NotFound();
+        }
+
+        [HttpPut("{email}")]
+        public ActionResult UpdateUser(string email, [FromForm] User user)
+        {
+            var existing = _context.Users.FirstOrDefault(u => u.Email == email);
             if (existing == null) return NotFound();
 
             existing.Name = user.Name;
-            existing.Email = user.Email;
             existing.Password = user.Password;
 
             _context.SaveChanges();
             return NoContent();
         }
 
-        [HttpDelete("{id}")]
-        public ActionResult Delete(int id)
+        [HttpPatch("{email}/name")]
+        public ActionResult UpdateName(string email, [FromForm] string newName)
         {
-            var user = _context.Users.Find(id);
-            if (user == null) return NotFound();
-
-            _context.Users.Remove(user);
-            _context.SaveChanges();
-            return NoContent();
-        }
-
-        [HttpPost("login")]
-        public ActionResult<bool> ValidateLogin([FromBody] User login)
-        {
-            var exists = _context.Users
-                .Any(u => u.Email == login.Email && u.Password == login.Password);
-            return Ok(exists);
-        }
-
-        [HttpPatch("{id}/name")]
-        public ActionResult UpdateName(int id, [FromBody] string newName)
-        {
-            var user = _context.Users.Find(id);
+            var user = _context.Users.FirstOrDefault(u => u.Email == email);
             if (user == null) return NotFound();
 
             user.Name = newName;
@@ -75,24 +110,24 @@ namespace SmartShoppingApplication.Controllers
             return NoContent();
         }
 
-        [HttpPatch("{id}/email")]
-        public ActionResult UpdateEmail(int id, [FromBody] string newEmail)
+        [HttpPatch("{email}/password")]
+        public ActionResult UpdatePassword(string email, [FromForm] string newPassword)
         {
-            var user = _context.Users.Find(id);
+            var user = _context.Users.FirstOrDefault(u => u.Email == email);
             if (user == null) return NotFound();
 
-            user.Email = newEmail;
+            user.Password = newPassword;
             _context.SaveChanges();
             return NoContent();
         }
 
-        [HttpPatch("{id}/password")]
-        public ActionResult UpdatePassword(int id, [FromBody] string newPassword)
+        [HttpDelete("{email}")]
+        public ActionResult Delete(string email)
         {
-            var user = _context.Users.Find(id);
+            var user = _context.Users.FirstOrDefault(u => u.Email == email);
             if (user == null) return NotFound();
 
-            user.Password = newPassword;
+            _context.Users.Remove(user);
             _context.SaveChanges();
             return NoContent();
         }

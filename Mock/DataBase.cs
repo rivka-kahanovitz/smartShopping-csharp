@@ -25,9 +25,9 @@ namespace Mock
         public DbSet<ShoppingList> ShoppingLists { get; set; }
         public DbSet<ShoppingListItem> ShoppingListItems { get; set; }
 
-        //protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
-        //{
-        //    optionsBuilder.UseSqlServer("server=DESKTOP-SSNMLFD;database=SmartShoppingApplication;trusted_connection=true;TrustServerCertificate=True");
-        //}
+        protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
+        {
+            optionsBuilder.UseSqlServer("server=DESKTOP-SSNMLFD;database=SmartShoppingApplication;trusted_connection=true;TrustServerCertificate=True");
+        }
     }
 }
