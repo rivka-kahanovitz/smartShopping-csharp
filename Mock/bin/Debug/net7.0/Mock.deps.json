@@ -629,10 +629,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
         },
         "runtime": {
-          "Repository.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Repository.dll": {}
         }
       }
     }

@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "Pg5+1jVobF4=",
+  "dgSpecHash": "eGlw22BCa2MMcW2ca022ulHoxm6RMRAFCXRl/s2QKIMinh5cZks5zyzUvMDzLFSopGsjkm7feNr0l/UVLj7Cjg==",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShoppingApplication\\Common\\Common.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\SmartShopping-C-\\Common\\Common.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",

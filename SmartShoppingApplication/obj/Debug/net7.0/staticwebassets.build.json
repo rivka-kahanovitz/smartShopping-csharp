@@ -1,12 +1,11 @@
 {
   "Version": 1,
-  "Hash": "qGME2c6GetCWfOjvr/jQPfnQYiWL1Kv69IlitibHpAI=",
+  "Hash": "C7t1Rh8O+EIVuJigOQZEYk4C2o1f71o8v8pn8FxymfQ=",
   "Source": "SmartShoppingApplication",
   "BasePath": "_content/SmartShoppingApplication",
   "Mode": "Default",
   "ManifestType": "Build",
   "ReferencedProjectsConfiguration": [],
   "DiscoveryPatterns": [],
-  "Assets": [],
-  "Endpoints": []
+  "Assets": []
 }
