@@ -23,10 +23,12 @@ namespace SmartShoppingApplication.Controllers
             var products = _context.Products
                 .Select(p => new ProductDto
                 {
-                    Id = p.Id,
+                    //Id = p.Id,
                     Name = p.Name,
                     ImageUrl = p.ImageUrl,
-                    Category = p.Category
+                    Category = p.Category,
+                    Barcode = p.Barcode
+
                 })
                 .ToList();
 
@@ -42,10 +44,11 @@ namespace SmartShoppingApplication.Controllers
 
             var dto = new ProductDto
             {
-                Id = p.Id,
+                //Id = p.Id,
                 Name = p.Name,
                 ImageUrl = p.ImageUrl,
-                Category = p.Category
+                Category = p.Category,
+                Barcode = p.Barcode
             };
 
             return Ok(dto);
@@ -59,7 +62,9 @@ namespace SmartShoppingApplication.Controllers
             {
                 Name = dto.Name,
                 ImageUrl = dto.ImageUrl,
-                Category = dto.Category
+                Category = dto.Category,
+                Barcode = dto.Barcode,
+                Brand = dto.Brand
             };
 
             _context.Products.Add(product);

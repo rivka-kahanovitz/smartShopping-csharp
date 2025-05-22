@@ -5,6 +5,7 @@ using Mock;
 using Service.DTOs;
 using Service;
 using SmartShoppingApplication.Utils;
+using Microsoft.AspNetCore.Authorization;
 namespace SmartShoppingApplication.Controllers
 {
     [ApiController]
@@ -49,15 +50,14 @@ namespace SmartShoppingApplication.Controllers
             if (user == null)
                 return Unauthorized();
 
-            string secretKey = "YourSuperSecretKey12345"; // כדאי להעביר ל־appsettings.json
+            string secretKey = "ThisIsAReallyStrongSecretKey123456789!";
             string token = TokenGenerator.GenerateToken(user.Email, secretKey);
 
             return Ok(token);
         }
 
 
-
-        // שאר הקוד – כמו שהיה אצלך בדיוק
+        [Authorize]
         [HttpGet("{id:int}")]
         public ActionResult<User> GetById(int id)
         {
@@ -78,7 +78,7 @@ namespace SmartShoppingApplication.Controllers
             var user = _context.Users.FirstOrDefault(u => u.Password == password);
             return user != null ? Ok(user) : NotFound();
         }
-
+        [Authorize]
         [HttpGet("by-name/{name}")]
         public ActionResult<User> GetByName(string name)
         {

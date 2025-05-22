@@ -16,6 +16,7 @@ namespace Repository.Entities
 
         [ForeignKey("User")]
         public int UserId { get; set; }
+        public string Title { get; set; }
         public User User { get; set; }
         public List<ShoppingListItem> ShoppingListItems { get; set; } = new List<ShoppingListItem>();
     }

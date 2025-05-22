@@ -16,11 +16,11 @@ namespace Repository.Entities
         [MaxLength(255)]
         public string Name { get; set; }
 
-        public string? Brand { get; set; }
+        public string Brand { get; set; }
 
         public string Category { get; set; }
 
-        public string? Barcode { get; set; }
+        public string Barcode { get; set; }
 
         public string ImageUrl { get; set; }
     }
