@@ -2955,23 +2955,23 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\user1\\.nuget\\packages\\": {},
+    "C:\\Users\\s-sys\\.nuget\\packages\\": {},
     "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj",
+      "projectUniqueName": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj",
       "projectName": "Repository",
-      "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj",
-      "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\obj\\",
+      "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj",
+      "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+      "outputPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
       ],
       "configFilePaths": [
-        "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
@@ -2998,7 +2998,7 @@
         "auditLevel": "low",
         "auditMode": "direct"
       },
-      "SdkAnalysisLevel": "9.0.200"
+      "SdkAnalysisLevel": "9.0.300"
     },
     "frameworks": {
       "net7.0": {
@@ -3041,7 +3041,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
       }
     }
   }

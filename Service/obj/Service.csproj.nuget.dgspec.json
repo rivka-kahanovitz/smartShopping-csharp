@@ -1,23 +1,23 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Service\\Service.csproj": {}
+    "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Service\\Service.csproj": {}
   },
   "projects": {
-    "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Common\\Common.csproj": {
+    "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Common\\Common.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Common\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -44,7 +44,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -87,24 +87,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Mock\\Mock.csproj": {
+    "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Mock\\Mock.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Mock\\Mock.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Mock\\Mock.csproj",
         "projectName": "Mock",
-        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Mock\\Mock.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Mock\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Mock\\Mock.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Mock\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -119,8 +119,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj"
+              "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj": {
+                "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj"
               }
             }
           }
@@ -135,7 +135,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -178,24 +178,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj": {
+    "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj",
         "projectName": "Repository",
-        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -222,7 +222,7 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
@@ -265,24 +265,24 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     },
-    "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Service\\Service.csproj": {
+    "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Service\\Service.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Service\\Service.csproj",
+        "projectUniqueName": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Service\\Service.csproj",
         "projectName": "Service",
-        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Service\\Service.csproj",
-        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Service\\obj\\",
+        "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Service\\Service.csproj",
+        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
+        "outputPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Service\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
         ],
         "configFilePaths": [
-          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
+          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
@@ -297,14 +297,14 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Common\\Common.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Common\\Common.csproj"
+              "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj": {
+                "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Mock\\Mock.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Mock\\Mock.csproj"
+              "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Mock\\Mock.csproj": {
+                "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Mock\\Mock.csproj"
               },
-              "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj": {
-                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט\\SmartShopping-C-\\Repository\\Repository.csproj"
+              "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj": {
+                "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Repository\\Repository.csproj"
               }
             }
           }
@@ -319,12 +319,16 @@
           "auditLevel": "low",
           "auditMode": "direct"
         },
-        "SdkAnalysisLevel": "9.0.200"
+        "SdkAnalysisLevel": "9.0.300"
       },
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "AutoMapper.Extensions.Microsoft.DependencyInjection": {
+              "target": "Package",
+              "version": "[7.0.0, )"
+            },
             "Microsoft.Data.SqlClient": {
               "target": "Package",
               "version": "[5.1.4, )"
@@ -362,7 +366,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
         }
       }
     }

@@ -7,12 +7,13 @@ using System.Threading.Tasks;
 using static System.Formats.Asn1.AsnWriter;
 using Microsoft.EntityFrameworkCore;
 using Repository.Entities;
+using Repository.Interfaces;
 
 
 
 namespace Mock
 {
-    public class DataBase : DbContext   
+    public class DataBase : DbContext  ,IContext 
     {
         public DataBase(DbContextOptions<DataBase> options)
         : base(options)
@@ -25,9 +26,14 @@ namespace Mock
         public DbSet<ShoppingList> ShoppingLists { get; set; }
         public DbSet<ShoppingListItem> ShoppingListItems { get; set; }
 
+        public void Save()
+        {
+            SaveChanges();
+        }
+
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=DESKTOP-SSNMLFD;database=SmartShoppingApplication;trusted_connection=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("server=sql;database=SmartShoppingApplication;trusted_connection=true;TrustServerCertificate=True");
         }
     }
 }
