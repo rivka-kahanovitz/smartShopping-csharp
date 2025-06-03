@@ -5,6 +5,9 @@ using Mock;
 using Repository.Entities;
 using Repository.Interfaces;
 using System.Text;
+using Service;
+using AutoMapper;
+using Service.Utils;
 
 namespace SmartShoppingApplication
 {
@@ -104,6 +107,8 @@ namespace SmartShoppingApplication
 
             builder.Services.AddDbContext<IContext, DataBase>();
             builder.Services.AddServiceExtension();
+            builder.Services.AddAutoMapper(typeof(MapperProfile));
+
 
 
 

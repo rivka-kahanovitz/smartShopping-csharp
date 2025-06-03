@@ -4,7 +4,7 @@ using System.Linq;
 using Mock;
 using Service.DTOs;
 using Service;
-using SmartShoppingApplication.Utils;
+using Service.Utils;
 using Microsoft.AspNetCore.Authorization;
 using Service.Interfaces;
 namespace SmartShoppingApplication.Controllers
@@ -19,10 +19,17 @@ namespace SmartShoppingApplication.Controllers
         {
             _context = context;
         } 
-        [HttpPost("signup")]
-        public void Signup([FromForm] UserLoginDto value)   
+        [HttpPost("login")]
+        public void Login([FromForm]UserLoginDto dto)
         {
-            _context.AddItem(value);
+            var user = _context.GetAll().FirstOrDefault(u =>
+                u.Email == dto.Email && u.Password == PasswordHasher.Hash(dto.Password));
+
+            if (user == null)
+                throw new UnauthorizedAccessException("שם משתמש או סיסמה שגויים");
+
+            // כאן לא שומרים למסד! רק מאשרים קיום
+            // אפשר להחזיר טוקן, מזהה, או פשוט להשאיר ריק
         }
         // הרשמת משתמש חדש עם DTO
 

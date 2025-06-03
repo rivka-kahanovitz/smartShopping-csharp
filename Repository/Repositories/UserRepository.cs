@@ -9,10 +9,10 @@ using Repository.Entities;
 using Repository.Interfaces;
 namespace Repository.Repositories
 {
-    internal class UserRepositiry : IRepository<User>
+    public class UserRepository : IRepository<User>
     {
         private readonly IContext context;
-        public UserRepositiry(IContext context)
+        public UserRepository(IContext context)
         {
             this.context = context;
         }

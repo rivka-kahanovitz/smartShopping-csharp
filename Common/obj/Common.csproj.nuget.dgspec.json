@@ -1,24 +1,20 @@
 {
   "format": 1,
   "restore": {
-    "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj": {}
+    "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Common\\Common.csproj": {}
   },
   "projects": {
-    "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj": {
+    "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Common\\Common.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj",
+        "projectUniqueName": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Common\\Common.csproj",
         "projectName": "Common",
-        "projectPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\Common.csproj",
-        "packagesPath": "C:\\Users\\s-sys\\.nuget\\packages\\",
-        "outputPath": "L:\\שנה ב\\Full Stack\\רבקי כהנוביץ\\c#\\SmartShopping-C-\\Common\\obj\\",
+        "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Common\\Common.csproj",
+        "packagesPath": "C:\\Users\\user1\\.nuget\\packages\\",
+        "outputPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Common\\obj\\",
         "projectStyle": "PackageReference",
-        "fallbackFolders": [
-          "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-        ],
         "configFilePaths": [
-          "C:\\Users\\s-sys\\AppData\\Roaming\\NuGet\\NuGet.Config",
-          "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
+          "C:\\Users\\user1\\AppData\\Roaming\\NuGet\\NuGet.Config",
           "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
         ],
         "originalTargetFrameworks": [
@@ -38,13 +34,7 @@
           "warnAsError": [
             "NU1605"
           ]
-        },
-        "restoreAuditProperties": {
-          "enableAudit": "true",
-          "auditLevel": "low",
-          "auditMode": "direct"
-        },
-        "SdkAnalysisLevel": "9.0.300"
+        }
       },
       "frameworks": {
         "net7.0": {
@@ -87,7 +77,7 @@
               "privateAssets": "all"
             }
           },
-          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.300\\RuntimeIdentifierGraph.json"
+          "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.304\\RuntimeIdentifierGraph.json"
         }
       }
     }

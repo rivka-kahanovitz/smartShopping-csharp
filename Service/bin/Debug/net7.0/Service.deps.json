@@ -704,10 +704,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
         },
         "runtime": {
-          "Common.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Common.dll": {}
         }
       },
       "Mock/1.0.0": {
@@ -720,10 +717,7 @@
           "Repository": "1.0.0"
         },
         "runtime": {
-          "Mock.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Mock.dll": {}
         }
       },
       "Repository/1.0.0": {
@@ -735,10 +729,7 @@
           "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
         },
         "runtime": {
-          "Repository.dll": {
-            "assemblyVersion": "1.0.0.0",
-            "fileVersion": "1.0.0.0"
-          }
+          "Repository.dll": {}
         }
       }
     }

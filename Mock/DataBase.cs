@@ -33,7 +33,7 @@ namespace Mock
 
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("server=sql;database=SmartShoppingApplication;trusted_connection=true;TrustServerCertificate=True");
+            optionsBuilder.UseSqlServer("server=DESKTOP-SSNMLFD;database=SmartShoppingApplication;trusted_connection=true;TrustServerCertificate=True");
         }
     }
 }
