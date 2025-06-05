@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Service.DTOs
+namespace common.DTOs
 {
     // אובייקט להעברת נתוני הרשמה
     public class UserSignUpDto

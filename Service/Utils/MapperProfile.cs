@@ -1,6 +1,6 @@
 ﻿using AutoMapper;
 using Repository.Entities;
-using Service.DTOs;
+using common.DTOs;
 namespace Service.Utils
 {
     public class MapperProfile : Profile

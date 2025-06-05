@@ -1,9 +1,10 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Repository.Entities;
 using Mock;
-using Service.DTOs;
 using Microsoft.AspNetCore.Authorization;
-using Service.Interfaces; // ודא שזו התיקייה שבה נמצאים ה-DTO
+using Common.Interfaces; // ודא שזו התיקייה שבה נמצאים ה-DTO
+using Common.DTOs;
+using Service.Service;
 
 namespace SmartShoppingApplication.Controllers
 {
@@ -75,7 +76,6 @@ namespace SmartShoppingApplication.Controllers
 
             return Ok(productId);
         }
-
 
         // עדכון מוצר
         [HttpPut("{id}")]

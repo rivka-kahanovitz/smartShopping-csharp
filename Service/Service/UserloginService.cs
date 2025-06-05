@@ -2,8 +2,8 @@
 using Humanizer;
 using Repository.Entities;
 using Repository.Interfaces;
-using Service.DTOs;
-using Service.Interfaces;
+using common.DTOs;
+using common.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;

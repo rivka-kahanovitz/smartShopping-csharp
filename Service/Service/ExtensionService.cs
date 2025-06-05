@@ -2,8 +2,8 @@
 using Repository.Entities;
 using Repository.Interfaces;
 using Repository.Repositories;
-using Service.DTOs;
-using Service.Interfaces;
+using common.DTOs;
+using common.Interfaces;
 using Service.Service;
 
 namespace Service

@@ -100,6 +100,7 @@ C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\Sma
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
+<<<<<<< HEAD
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Common.deps.json
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Common.runtimeconfig.json
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Common.dll
@@ -115,3 +116,8 @@ C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShop
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
+=======
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CopyComplete
+>>>>>>> e5e12a546b0ebd737c2a35966b679368e8bad36e

@@ -1330,7 +1330,8 @@
           "Microsoft.EntityFrameworkCore": "7.0.15",
           "Microsoft.EntityFrameworkCore.Design": "7.0.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
-          "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
+          "Microsoft.EntityFrameworkCore.Tools": "7.0.15",
+          "Repository": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Common.dll": {}
@@ -4105,6 +4106,7 @@
   },
   "projectFileDependencyGroups": {
     "net7.0": [
+      "Common >= 1.0.0",
       "Microsoft.AspNetCore.Authentication.JwtBearer >= 7.0.20",
       "Microsoft.Data.SqlClient >= 5.1.4",
       "Microsoft.EntityFrameworkCore >= 7.0.15",
@@ -4148,6 +4150,9 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "projectReferences": {
+            "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט מ 3.6\\SmartShopping-C-\\Common\\Common.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט מ 3.6\\SmartShopping-C-\\Common\\Common.csproj"
+            },
             "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט מ 3.6\\SmartShopping-C-\\Mock\\Mock.csproj": {
               "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט מ 3.6\\SmartShopping-C-\\Mock\\Mock.csproj"
             },

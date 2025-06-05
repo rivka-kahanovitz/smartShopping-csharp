@@ -1,6 +1,6 @@
 ﻿using System.ComponentModel.DataAnnotations;
 
-namespace Service.DTOs
+namespace common.DTOs
 {
     // DTO להצגת מוצר
     public class ProductDto

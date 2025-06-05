@@ -1223,7 +1223,8 @@
           "Microsoft.EntityFrameworkCore": "7.0.15",
           "Microsoft.EntityFrameworkCore.Design": "7.0.15",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
-          "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
+          "Microsoft.EntityFrameworkCore.Tools": "7.0.15",
+          "Repository": "1.0.0"
         },
         "compile": {
           "bin/placeholder/Common.dll": {}
@@ -3714,5 +3715,13 @@
         "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\9.0.200\\RuntimeIdentifierGraph.json"
       }
     }
-  }
+  },
+  "logs": [
+    {
+      "code": "Undefined",
+      "level": "Warning",
+      "warningLevel": 1,
+      "message": "Problem reading the cache file C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט מ 3.6\\SmartShopping-C-\\Service\\obj\\project.nuget.cache : Invalid property identifier character: <. Path 'version', line 3, position 0."
+    }
+  ]
 }
