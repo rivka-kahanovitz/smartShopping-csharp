@@ -1,13 +1,14 @@
 {
   "version": 2,
-  "dgSpecHash": "YgDbNaMPEduHTNd03kF89bcKghIeOxSf3VGpaudwAYU3EgBow++9GWVxgFhb/rUC9sKSlEO8QgLIIoTo5GLjRA==",
+  "dgSpecHash": "Fi4pH1baanQ=",
   "success": true,
-  "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\SmartShoppingApplication\\SmartShoppingApplication.csproj",
+  "projectFilePath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\C#\\פרויקט מ 3.6\\SmartShopping-C-\\SmartShoppingApplication\\SmartShoppingApplication.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\user1\\.nuget\\packages\\automapper\\9.0.0\\automapper.9.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\automapper.extensions.microsoft.dependencyinjection\\7.0.0\\automapper.extensions.microsoft.dependencyinjection.7.0.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\azure.core\\1.35.0\\azure.core.1.35.0.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\azure.identity\\1.10.3\\azure.identity.1.10.3.nupkg.sha512",
+    "C:\\Users\\user1\\.nuget\\packages\\htmlagilitypack\\1.12.1\\htmlagilitypack.1.12.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\humanizer.core\\2.14.1\\humanizer.core.2.14.1.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.aspnetcore.authentication.jwtbearer\\7.0.20\\microsoft.aspnetcore.authentication.jwtbearer.7.0.20.nupkg.sha512",
     "C:\\Users\\user1\\.nuget\\packages\\microsoft.bcl.asyncinterfaces\\1.1.1\\microsoft.bcl.asyncinterfaces.1.1.1.nupkg.sha512",

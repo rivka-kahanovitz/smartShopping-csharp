@@ -7,7 +7,7 @@ using Microsoft.IdentityModel.Tokens;
 
 public static class TokenGenerator
 {
-    public static string GenerateToken(string userEmail, string secretKey, int expireMinutes = 60)
+    public static string GenerateToken(int userId, string userEmail, string secretKey, int expireMinutes = 60)
     {
         var tokenHandler = new JwtSecurityTokenHandler();
         var key = Encoding.ASCII.GetBytes(secretKey);
@@ -16,8 +16,9 @@ public static class TokenGenerator
         {
             Subject = new ClaimsIdentity(new[]
             {
-                    new Claim(ClaimTypes.Email, userEmail)
-                }),
+            new Claim(ClaimTypes.Email, userEmail),
+            new Claim("id", userId.ToString()) // 🆕 מזהה המשתמש
+        }),
             Expires = DateTime.UtcNow.AddMinutes(expireMinutes),
             SigningCredentials = new SigningCredentials(
                 new SymmetricSecurityKey(key),
@@ -27,5 +28,6 @@ public static class TokenGenerator
         var token = tokenHandler.CreateToken(tokenDescriptor);
         return tokenHandler.WriteToken(token);
     }
+
 }
 

@@ -46,6 +46,5 @@ namespace Repository.Repositories
             context.Users.Remove(GetById(id));
             context.Save();
         }
-
     }
 }

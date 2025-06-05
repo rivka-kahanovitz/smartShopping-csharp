@@ -6,88 +6,70 @@ using Service.Interfaces;
 using System;
 using System.Collections.Generic;
 using System.Linq;
-using System.Text;  
-using System.Threading.Tasks;
-using Service;
+
 namespace Service.Service
 {
-    internal class UserSignUpService : IService<UserSignUpDto>
+    public class UserSignUpService : IService<UserSignUpDto>
     {
-        private readonly IContext _context;
+        private readonly IRepository<User> _repository;
+        private readonly IMapper _mapper;
 
-        public UserSignUpService(IContext context)
+        public UserSignUpService(IRepository<User> repository, IMapper mapper)
         {
-            _context = context;
+            _repository = repository;
+            _mapper = mapper;
         }
 
         public UserSignUpDto AddItem(UserSignUpDto dto)
         {
-            if (_context.Users.Any(u => u.Email == dto.Email))
+            if (_repository.GetAll().Any(u => u.Email == dto.Email))
                 throw new InvalidOperationException("כתובת האימייל כבר קיימת.");
 
-            var hashedPassword = PasswordHasher.Hash(dto.Password);
+            dto.Password = PasswordHasher.Hash(dto.Password);
 
-            var user = new User
-            {
-                Name = dto.Name,
-                Email = dto.Email,
-                Password = hashedPassword
-            };
+            var user = _mapper.Map<User>(dto);
+            _repository.Add(user);
 
-            _context.Users.Add(user);
-            _context.Save();
-
-            return dto;
+            return _mapper.Map<UserSignUpDto>(_repository.Add(_mapper.Map<User>(user)));
         }
 
         public void Delete(int id)
         {
-            var user = _context.Users.FirstOrDefault(u => u.Id == id);
-            if (user == null)
+            var existingUser = _repository.GetById(id);
+            if (existingUser == null)
                 throw new KeyNotFoundException("משתמש לא נמצא.");
 
-            _context.Users.Remove(user);
-            _context.Save();
+            _repository.Delete(id);
         }
 
         public List<UserSignUpDto> GetAll()
         {
-            return _context.Users
-                .Select(u => new UserSignUpDto
-                {
-                    Name = u.Name,
-                    Email = u.Email,
-                    Password = "********"
-                }).ToList();
+            var users = _repository.GetAll();
+            return _mapper.Map<List<UserSignUpDto>>(users);
         }
 
         public UserSignUpDto GetById(int id)
         {
-            var user = _context.Users.FirstOrDefault(u => u.Id == id);
+            var user = _repository.GetById(id);
             if (user == null)
                 throw new KeyNotFoundException("משתמש לא נמצא.");
 
-            return new UserSignUpDto
-            {
-                Name = user.Name,
-                Email = user.Email,
-                Password = "********"
-            };
+            return _mapper.Map<UserSignUpDto>(user);
         }
 
         public UserSignUpDto Update(int id, UserSignUpDto dto)
         {
-            var user = _context.Users.FirstOrDefault(u => u.Id == id);
-            if (user == null)
+            var existingUser = _repository.GetById(id);
+            if (existingUser == null)
                 throw new KeyNotFoundException("משתמש לא נמצא.");
 
-            user.Name = dto.Name;
-            user.Email = dto.Email;
-            user.Password = PasswordHasher.Hash(dto.Password);
+            dto.Password = PasswordHasher.Hash(dto.Password);
 
-            _context.Save();
+            var updatedUser = _mapper.Map<User>(dto);
+            updatedUser.Id = id; // חשוב – לא לאבד את המזהה!
 
-            return dto;
+            var result = _repository.Put(id, updatedUser);
+            return _mapper.Map<UserSignUpDto>(result);
         }
     }
 }

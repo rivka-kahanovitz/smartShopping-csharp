@@ -108,6 +108,7 @@ namespace SmartShoppingApplication
             builder.Services.AddDbContext<IContext, DataBase>();
             builder.Services.AddServiceExtension();
             builder.Services.AddAutoMapper(typeof(MapperProfile));
+            builder.Services.AddScoped<IImageDownloader, ImageDownloader>();
 
 
 

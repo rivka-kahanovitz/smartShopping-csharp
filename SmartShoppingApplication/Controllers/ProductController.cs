@@ -1,7 +1,9 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Repository.Entities;
 using Mock;
-using Service.DTOs; // ודא שזו התיקייה שבה נמצאים ה-DTO
+using Service.DTOs;
+using Microsoft.AspNetCore.Authorization;
+using Service.Interfaces; // ודא שזו התיקייה שבה נמצאים ה-DTO
 
 namespace SmartShoppingApplication.Controllers
 {
@@ -10,10 +12,12 @@ namespace SmartShoppingApplication.Controllers
     public class ProductController : ControllerBase
     {
         private readonly DataBase _context;
+        private readonly ProductService _productService;
 
-        public ProductController(DataBase context)
+        public ProductController(DataBase context, IService<ProductDto> productService)
         {
             _context = context;
+            _productService = productService;
         }
 
         // שליפת כל המוצרים
@@ -55,22 +59,23 @@ namespace SmartShoppingApplication.Controllers
         }
 
         // הוספת מוצר חדש
+        [Authorize]
         [HttpPost]
         public ActionResult<int> Create([FromForm] ProductCreateDto dto)
         {
-            var product = new Product
-            {
-                Name = dto.Name,
-                ImageUrl = dto.ImageUrl,
-                Category = dto.Category,
-                Barcode = dto.Barcode,
-                Brand = dto.Brand
-            };
+            // שולף את ה־userId מהטוקן
+            var userIdClaim = User.FindFirst("id");
+            if (userIdClaim == null)
+                return Unauthorized("Missing user ID in token.");
 
-            _context.Products.Add(product);
-            _context.SaveChanges();
-            return Ok(product.Id);
+            int userId = int.Parse(userIdClaim.Value);
+
+            // קורא לשירות שמטפל בלוגיקה (כולל רשימת קניות)
+            var productId = _productService.UsrIdFromAddItem(userId);
+
+            return Ok(productId);
         }
+
 
         // עדכון מוצר
         [HttpPut("{id}")]

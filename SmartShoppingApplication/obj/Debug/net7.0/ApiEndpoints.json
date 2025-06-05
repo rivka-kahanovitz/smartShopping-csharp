@@ -1,5 +1,15 @@
 [
   {
+    "ContainingType": "ImagesController",
+    "Method": "Download",
+    "RelativePath": "api/Images/download",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  },
+  {
     "ContainingType": "SmartShoppingApplication.Controllers.ProductController",
     "Method": "GetAll",
     "RelativePath": "api/Product",
@@ -197,24 +207,35 @@
     ]
   },
   {
-    "ContainingType": "SmartShoppingApplication.Controllers.WeatherForecastController",
-    "Method": "Get",
-    "RelativePath": "WeatherForecast",
-    "HttpMethod": "GET",
+    "ContainingType": "SmartShoppingApplication.Controllers.UserSignUpController",
+    "Method": "SignUp",
+    "RelativePath": "api/UserSignUp/signup",
+    "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
-    "Parameters": [],
-    "ReturnTypes": [
+    "Parameters": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[SmartShoppingApplication.WeatherForecast, SmartShoppingApplication, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
+        "Name": "Name",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Email",
+        "Type": "System.String",
+        "IsRequired": false
+      },
+      {
+        "Name": "Password",
+        "Type": "System.String",
+        "IsRequired": false
       }
     ],
-    "EndpointName": "GetWeatherForecast"
+    "ReturnTypes": [
+      {
+        "Type": "System.Void",
+        "MediaTypes": [],
+        "StatusCode": 200
+      }
+    ]
   }
 ]

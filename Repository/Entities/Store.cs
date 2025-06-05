@@ -7,7 +7,6 @@ using System.Threading.Tasks;
 
 namespace Repository.Entities
 {
-
     public class Stores
     {
         [Key]
@@ -21,8 +20,8 @@ namespace Repository.Entities
 
         public string Address { get; set; }
 
-        public decimal Latitude { get; set; }
+        //public decimal Latitude { get; set; }
 
-        public decimal Longitude { get; set; }
+        //public decimal Longitude { get; set; }
     }
 }

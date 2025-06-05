@@ -9,8 +9,6 @@ using Microsoft.EntityFrameworkCore;
 using Repository.Entities;
 using Repository.Interfaces;
 
-
-
 namespace Mock
 {
     public class DataBase : DbContext  ,IContext 

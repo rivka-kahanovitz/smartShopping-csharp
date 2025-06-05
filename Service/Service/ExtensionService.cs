@@ -13,13 +13,11 @@ namespace Service
         public static IServiceCollection AddServiceExtension(this IServiceCollection services)
         {
             services.AddScoped<IService<UserLoginDto>, UserloginService>();
-            services.AddScoped<IService<UserSignUpDto>, UserSignUpService>();  
+            services.AddScoped<IService<UserSignUpDto>, UserSignUpService>();
 
             // תוכל/י להוסיף כאן שירותים נוספים בהמשך לדוגמה:
             //services.AddScoped<IProductService, ProductService>();
             services.AddScoped<IRepository<User>, UserRepository>();
-
-
 
             return services;
         }
