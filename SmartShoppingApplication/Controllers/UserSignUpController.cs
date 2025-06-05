@@ -2,11 +2,11 @@
 using Repository.Entities;
 using System.Linq;
 using Mock;
-using Service.DTOs;
+using common.DTOs;
 using Service;
 using Service.Utils;
 using Microsoft.AspNetCore.Authorization;
-using Service.Interfaces;
+using common.Interfaces;
 namespace SmartShoppingApplication.Controllers
 {
     [ApiController]

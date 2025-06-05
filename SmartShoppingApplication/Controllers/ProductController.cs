@@ -1,7 +1,7 @@
 ﻿using Microsoft.AspNetCore.Mvc;
 using Repository.Entities;
 using Mock;
-using Service.DTOs; // ודא שזו התיקייה שבה נמצאים ה-DTO
+using common.DTOs; // ודא שזו התיקייה שבה נמצאים ה-DTO
 
 namespace SmartShoppingApplication.Controllers
 {

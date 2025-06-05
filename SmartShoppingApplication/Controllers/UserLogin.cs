@@ -2,20 +2,20 @@
 using Repository.Entities;
 using System.Linq;
 using Mock;
-using Service.DTOs;
+using common.DTOs;
 using Service;
 using Service.Utils;
 using Microsoft.AspNetCore.Authorization;
-using Service.Interfaces;
+using common.Interfaces;
 namespace SmartShoppingApplication.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class UserController : ControllerBase
+    public class UserLogin : ControllerBase
     {
         private readonly IService<UserLoginDto> _context;
 
-        public UserController(IService<UserLoginDto> context)   
+        public UserLogin(IService<UserLoginDto> context)   
         {
             _context = context;
         } 

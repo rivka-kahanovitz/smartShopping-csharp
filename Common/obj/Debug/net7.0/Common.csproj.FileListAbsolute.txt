@@ -100,3 +100,6 @@ C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\Sma
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CopyComplete

@@ -1077,6 +1077,23 @@
             "rid": "win"
           }
         }
+      },
+      "Repository/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "dependencies": {
+          "Microsoft.Data.SqlClient": "5.1.4",
+          "Microsoft.EntityFrameworkCore": "7.0.15",
+          "Microsoft.EntityFrameworkCore.Design": "7.0.15",
+          "Microsoft.EntityFrameworkCore.SqlServer": "7.0.15",
+          "Microsoft.EntityFrameworkCore.Tools": "7.0.15"
+        },
+        "compile": {
+          "bin/placeholder/Repository.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/Repository.dll": {}
+        }
       }
     }
   },
@@ -2943,6 +2960,11 @@
         "system.windows.extensions.nuspec",
         "useSharedDesignerContext.txt"
       ]
+    },
+    "Repository/1.0.0": {
+      "type": "project",
+      "path": "../Repository/Repository.csproj",
+      "msbuildProject": "../Repository/Repository.csproj"
     }
   },
   "projectFileDependencyGroups": {
@@ -2951,7 +2973,8 @@
       "Microsoft.EntityFrameworkCore >= 7.0.15",
       "Microsoft.EntityFrameworkCore.Design >= 7.0.15",
       "Microsoft.EntityFrameworkCore.SqlServer >= 7.0.15",
-      "Microsoft.EntityFrameworkCore.Tools >= 7.0.15"
+      "Microsoft.EntityFrameworkCore.Tools >= 7.0.15",
+      "Repository >= 1.0.0"
     ]
   },
   "packageFolders": {
@@ -2980,7 +3003,11 @@
       "frameworks": {
         "net7.0": {
           "targetAlias": "net7.0",
-          "projectReferences": {}
+          "projectReferences": {
+            "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Repository\\Repository.csproj": {
+              "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Repository\\Repository.csproj"
+            }
+          }
         }
       },
       "warningProperties": {

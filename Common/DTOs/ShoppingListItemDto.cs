@@ -1,4 +1,4 @@
-﻿namespace Service.DTOs
+﻿namespace common.DTOs
 {
     public class ShoppingListItemDto
     {

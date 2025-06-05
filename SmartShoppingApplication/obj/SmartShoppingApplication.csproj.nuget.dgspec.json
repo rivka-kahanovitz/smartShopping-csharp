@@ -27,7 +27,11 @@
         "frameworks": {
           "net7.0": {
             "targetAlias": "net7.0",
-            "projectReferences": {}
+            "projectReferences": {
+              "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Repository\\Repository.csproj": {
+                "projectPath": "C:\\Users\\user1\\Desktop\\לימודים\\שנה ב\\פרויקט!!!!!!!!!\\חדש\\SmartShopping-C-\\Repository\\Repository.csproj"
+              }
+            }
           }
         },
         "warningProperties": {
