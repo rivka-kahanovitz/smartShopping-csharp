@@ -1,0 +1,35 @@
+# קבצי קומפילציה והרצה
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+*.cache
+*.log
+
+# קבצים זמניים של IDE ומערכות הפעלה
+.vscode/
+.idea/
+*.user
+*.suo
+*.userprefs
+.DS_Store
+Thumbs.db
+
+# קבצי סקריפטים
+*.sh
+*.bat
+
+# קבצים של כלי בנייה
+*.msbuild
+*.csproj.user
+
+# קבצי גיבוי ושמירה אוטומטית
+*~
+*.swp
+*.tmp
+*.bak
+
+# קבצים פרטיים / סיסמאות
+appsettings.*.json
+secrets.json
