@@ -8,6 +8,9 @@ using System.Text;
 using Service;
 using AutoMapper;
 using Service.Utils;
+using common.DTOs;
+using common.Interfaces;
+using Service.Service;
 
 namespace SmartShoppingApplication
 {
@@ -15,6 +18,108 @@ namespace SmartShoppingApplication
     {
         public static void Main(string[] args)
         {
+        
+            var builder = WebApplication.CreateBuilder(args);
+
+            // Add services to the container.
+
+            builder.Services.AddControllers();
+            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
+            builder.Services.AddEndpointsApiExplorer();
+            builder.Services.AddSwaggerGen();
+            //הזרקת תלות
+
+            builder.Services.AddDbContext<IContext, DataBase>();
+            builder.Services.AddServiceExtension();
+            builder.Services.AddAutoMapper(typeof(MapperProfile));
+            builder.Services.AddScoped<IImageDownloader, ImageDownloader>();
+
+
+
+            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
+                .AddJwtBearer(option =>
+                option.TokenValidationParameters = new TokenValidationParameters()
+                {
+
+                    ValidateAudience = true,
+                    ValidateIssuer = true,
+                    ValidateLifetime = true,
+                    ValidIssuer = builder.Configuration["Jwt:Issuer"],
+                    ValidAudience = builder.Configuration["Jwt:Audience"],
+                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
+
+                }
+                );
+            builder.Services.AddSwaggerGen(c =>
+            {
+                c.SwaggerDoc("v1", new() { Title = "SmartShoppingApplication", Version = "v1" });
+                c.AddSecurityDefinition("Bearer", new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+                {
+                    Name = "Authorization",
+                    Type = Microsoft.OpenApi.Models.SecuritySchemeType.ApiKey,
+                    Scheme = "Bearer",
+                    BearerFormat = "JWT",
+                    In = Microsoft.OpenApi.Models.ParameterLocation.Header,
+                    Description = "הכניסי כאן את ה־JWT Token. לדוגמה: Bearer {token}"
+                });
+                c.AddSecurityRequirement(new Microsoft.OpenApi.Models.OpenApiSecurityRequirement
+    {
+        {
+            new Microsoft.OpenApi.Models.OpenApiSecurityScheme
+            {
+                Reference = new Microsoft.OpenApi.Models.OpenApiReference
+                {
+                    Type = Microsoft.OpenApi.Models.ReferenceType.SecurityScheme,
+                    Id = "Bearer"
+                }
+            },
+            Array.Empty<string>()
+        }
+    });
+            });
+
+  
+
+            // enable cors
+            var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
+
+            builder.Services.AddCors(options =>
+            {
+                options.AddPolicy(name: MyAllowSpecificOrigins,
+                                  policy =>
+                                  {
+                                      policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
+                                  });
+            });
+
+            var app = builder.Build();
+            //app.UseDeveloperExceptionPage(); // --------------
+
+
+            // Configure the HTTP request pipeline.
+            if (app.Environment.IsDevelopment())
+            {
+                app.UseSwagger();
+                app.UseSwaggerUI();
+            }
+
+            app.UseHttpsRedirection();
+
+            //הרשאות
+            app.UseAuthentication();
+            //אימות
+            app.UseAuthorization();
+
+            // enable cors
+            app.UseCors(MyAllowSpecificOrigins);
+            // enable cors
+
+            app.MapControllers();
+
+            app.Run();
+
+
+
             //        var builder = WebApplication.CreateBuilder(args);
 
             //        // חיבור למסד נתונים
@@ -94,80 +199,6 @@ namespace SmartShoppingApplication
 
             //        app.MapControllers();
             //        app.Run();
-
-            var builder = WebApplication.CreateBuilder(args);
-
-            // Add services to the container.
-
-            builder.Services.AddControllers();
-            // Learn more about configuring Swagger/OpenAPI at https://aka.ms/aspnetcore/swashbuckle
-            builder.Services.AddEndpointsApiExplorer();
-            builder.Services.AddSwaggerGen();
-            //הזרקת תלות
-
-            builder.Services.AddDbContext<IContext, DataBase>();
-            builder.Services.AddServiceExtension();
-            builder.Services.AddAutoMapper(typeof(MapperProfile));
-            builder.Services.AddScoped<IImageDownloader, ImageDownloader>();
-
-
-
-
-            builder.Services.AddAuthentication(JwtBearerDefaults.AuthenticationScheme)
-                .AddJwtBearer(option =>
-                option.TokenValidationParameters = new TokenValidationParameters()
-                {
-
-                    ValidateAudience = true,
-                    ValidateIssuer = true,
-                    ValidateLifetime = true,
-                    ValidIssuer = builder.Configuration["Jwt:Issuer"],
-                    ValidAudience = builder.Configuration["Jwt:Audience"],
-                    IssuerSigningKey = new SymmetricSecurityKey(Encoding.UTF8.GetBytes(builder.Configuration["Jwt:Key"]))
-
-                }
-                );
-
-            // enable cors
-            var MyAllowSpecificOrigins = "_myAllowSpecificOrigins";
-
-            builder.Services.AddCors(options =>
-            {
-                options.AddPolicy(name: MyAllowSpecificOrigins,
-                                  policy =>
-                                  {
-                                      policy.AllowAnyOrigin().AllowAnyMethod().AllowAnyHeader();
-                                  });
-            });
-
-            var app = builder.Build();
-            //app.UseDeveloperExceptionPage(); // --------------
-
-
-            // Configure the HTTP request pipeline.
-            if (app.Environment.IsDevelopment())
-            {
-                app.UseSwagger();
-                app.UseSwaggerUI();
-            }
-
-            app.UseHttpsRedirection();
-
-            //הרשאות
-            app.UseAuthentication();
-            //אימות
-            app.UseAuthorization();
-
-            // enable cors
-            app.UseCors(MyAllowSpecificOrigins);
-            // enable cors
-
-            app.MapControllers();
-
-            app.Run();
-
-
-
 
         }
     }

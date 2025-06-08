@@ -40,6 +40,7 @@ namespace Repository.Repositories
             product.Barcode = item.Barcode;
             product.ImageUrl = item.ImageUrl;
             product.Category = item.Category;
+            context.Save();
             return product;
         }
         public void Delete(int id)

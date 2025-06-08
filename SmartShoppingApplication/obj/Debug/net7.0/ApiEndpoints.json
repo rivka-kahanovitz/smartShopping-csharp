@@ -19,7 +19,7 @@
     "Parameters": [],
     "ReturnTypes": [
       {
-        "Type": "System.Collections.Generic.IEnumerable\u00601[[Service.DTOs.ProductDto, Service, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
+        "Type": "System.Collections.Generic.IEnumerable\u00601[[common.DTOs.ProductDto, Common, Version=1.0.0.0, Culture=neutral, PublicKeyToken=null]]",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -91,7 +91,7 @@
     ],
     "ReturnTypes": [
       {
-        "Type": "Service.DTOs.ProductDto",
+        "Type": "common.DTOs.ProductDto",
         "MediaTypes": [
           "text/plain",
           "application/json",
@@ -154,9 +154,9 @@
     "ReturnTypes": []
   },
   {
-    "ContainingType": "SmartShoppingApplication.Controllers.UserController",
+    "ContainingType": "SmartShoppingApplication.Controllers.UserLoginController",
     "Method": "GetById",
-    "RelativePath": "api/User/{id}",
+    "RelativePath": "api/UserLogin/{id}",
     "HttpMethod": "GET",
     "IsController": true,
     "Order": 0,
@@ -167,22 +167,12 @@
         "IsRequired": true
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "Service.DTOs.UserLoginDto",
-        "MediaTypes": [
-          "text/plain",
-          "application/json",
-          "text/json"
-        ],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
-    "ContainingType": "SmartShoppingApplication.Controllers.UserController",
+    "ContainingType": "SmartShoppingApplication.Controllers.UserLoginController",
     "Method": "Login",
-    "RelativePath": "api/User/login",
+    "RelativePath": "api/UserLogin/login",
     "HttpMethod": "POST",
     "IsController": true,
     "Order": 0,
@@ -198,13 +188,7 @@
         "IsRequired": false
       }
     ],
-    "ReturnTypes": [
-      {
-        "Type": "System.Void",
-        "MediaTypes": [],
-        "StatusCode": 200
-      }
-    ]
+    "ReturnTypes": []
   },
   {
     "ContainingType": "SmartShoppingApplication.Controllers.UserSignUpController",

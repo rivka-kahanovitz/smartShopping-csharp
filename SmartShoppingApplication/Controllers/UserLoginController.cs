@@ -7,29 +7,48 @@ using Service;
 using Service.Utils;
 using Microsoft.AspNetCore.Authorization;
 using common.Interfaces;
+//try
 namespace SmartShoppingApplication.Controllers
 {
     [ApiController]
     [Route("api/[controller]")]
-    public class UserLogin : ControllerBase
+    public class UserLoginController : ControllerBase
     {
         private readonly IService<UserLoginDto> _context;
 
-        public UserLogin(IService<UserLoginDto> context)   
+        public UserLoginController(IService<UserLoginDto> context)   
         {
             _context = context;
         } 
         [HttpPost("login")]
-        public void Login([FromForm]UserLoginDto dto)
+
+        public IActionResult Login([FromForm] UserLoginDto dto)
         {
             var user = _context.GetAll().FirstOrDefault(u =>
                 u.Email == dto.Email && u.Password == PasswordHasher.Hash(dto.Password));
 
             if (user == null)
-                throw new UnauthorizedAccessException("שם משתמש או סיסמה שגויים");
+                return Unauthorized("שם משתמש או סיסמה שגויים");
 
-            // כאן לא שומרים למסד! רק מאשרים קיום
-            // אפשר להחזיר טוקן, מזהה, או פשוט להשאיר ריק
+            var token = TokenGenerator.GenerateToken(
+                user.Email,
+                "ThisIsAReallyStrongSecretKey123456789!", // אפשר גם מה־Configuration
+                "SmartShoppingAPI",
+                "SmartShoppingClient"
+            );
+
+            return Ok(new { token });
+        }
+
+        [Authorize]
+        [HttpGet("{id:int}")]
+        public IActionResult GetById(int id)
+        {
+            var user = _context.GetById(id);
+            if (user == null)
+                return NotFound(); // 404
+
+            return Ok(user); // 200 + תוכן
         }
         // הרשמת משתמש חדש עם DTO
 
@@ -66,12 +85,8 @@ namespace SmartShoppingApplication.Controllers
         //}
 
 
-        [Authorize]
-        [HttpGet("{id:int}")]
-        public UserLoginDto GetById(int id)
-        {
-            return _context.GetById(id);
-        }
+
+
 
         //[HttpGet("by-email/{email}")]
         //public UserLoginDto GetByEmail(string email)

@@ -7,6 +7,7 @@ using System.Text;
 using System.Threading.Tasks;
 using Repository.Entities;
 using Repository.Interfaces;
+using System.Diagnostics;
 namespace Repository.Repositories
 {
     public class UserRepository : IRepository<User>
@@ -28,7 +29,10 @@ namespace Repository.Repositories
         }
         public User GetById(int id)
         {
-            return context.Users.FirstOrDefault(x => x.Id == id);
+            var user = context.Users.FirstOrDefault(u => u.Id == id);
+            Console.WriteLine(user); // או Console.WriteLine אם את בודקת בקונסול
+            return user;
+
         }
 
         public User Put(int id, User item)

@@ -8,7 +8,7 @@ using System.Threading.Tasks;
 
 namespace Repository.Repositories
 {
-    internal class ShoppingListsRepository : IRepository<ShoppingList>
+    public class ShoppingListsRepository : IRepository<ShoppingList>
     {
         private readonly IContext context;
         public ShoppingListsRepository(IContext context)

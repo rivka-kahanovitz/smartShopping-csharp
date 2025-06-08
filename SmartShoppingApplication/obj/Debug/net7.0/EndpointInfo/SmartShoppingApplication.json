@@ -2,7 +2,7 @@
   "openapi": "3.0.1",
   "info": {
     "title": "SmartShoppingApplication",
-    "version": "1.0"
+    "version": "v1"
   },
   "paths": {
     "/api/Images/download": {
@@ -253,10 +253,10 @@
         }
       }
     },
-    "/api/User/login": {
+    "/api/UserLogin/login": {
       "post": {
         "tags": [
-          "User"
+          "UserLogin"
         ],
         "requestBody": {
           "content": {
@@ -295,10 +295,10 @@
         }
       }
     },
-    "/api/User/{id}": {
+    "/api/UserLogin/{id}": {
       "get": {
         "tags": [
-          "User"
+          "UserLogin"
         ],
         "parameters": [
           {
@@ -313,24 +313,7 @@
         ],
         "responses": {
           "200": {
-            "description": "OK",
-            "content": {
-              "text/plain": {
-                "schema": {
-                  "$ref": "#/components/schemas/UserLoginDto"
-                }
-              },
-              "application/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/UserLoginDto"
-                }
-              },
-              "text/json": {
-                "schema": {
-                  "$ref": "#/components/schemas/UserLoginDto"
-                }
-              }
-            }
+            "description": "OK"
           }
         }
       }
@@ -412,26 +395,20 @@
           }
         },
         "additionalProperties": false
-      },
-      "UserLoginDto": {
-        "required": [
-          "email",
-          "password"
-        ],
-        "type": "object",
-        "properties": {
-          "email": {
-            "minLength": 1,
-            "type": "string",
-            "format": "email"
-          },
-          "password": {
-            "minLength": 1,
-            "type": "string"
-          }
-        },
-        "additionalProperties": false
+      }
+    },
+    "securitySchemes": {
+      "Bearer": {
+        "type": "apiKey",
+        "description": "הכניסי כאן את ה־JWT Token. לדוגמה: Bearer {token}",
+        "name": "Authorization",
+        "in": "header"
       }
     }
-  }
+  },
+  "security": [
+    {
+      "Bearer": [ ]
+    }
+  ]
 }

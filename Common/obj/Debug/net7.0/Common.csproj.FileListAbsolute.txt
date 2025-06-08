@@ -1,123 +1,18 @@
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.deps.json
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.runtimeconfig.json
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\refint\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט מגיפיטי\פרויקט מגיפיטי 2\SmartShoppingApplication\Common\obj\Debug\net7.0\ref\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.deps.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.runtimeconfig.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\bin\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.sourcelink.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\refint\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShoppingApplication\Common\obj\Debug\net7.0\ref\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\bin\Debug\net7.0\Common.deps.json
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\bin\Debug\net7.0\Common.runtimeconfig.json
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\bin\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\bin\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\refint\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\bin\Debug\net7.0\Common.deps.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\bin\Debug\net7.0\Common.runtimeconfig.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\bin\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\bin\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.sourcelink.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\refint\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\bin\Debug\net7.0\Common.deps.json
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\bin\Debug\net7.0\Common.runtimeconfig.json
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\bin\Debug\net7.0\Common.dll
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\bin\Debug\net7.0\Common.pdb
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.sourcelink.json
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.dll
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\refint\Common.dll
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
-L:\שנה ב\Full Stack\רבקי כהנוביץ\c#\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.deps.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.runtimeconfig.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.sourcelink.json
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\refint\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט חדש\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.deps.json
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.runtimeconfig.json
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\refint\Common.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
-<<<<<<< HEAD
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Common.deps.json
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Common.runtimeconfig.json
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Common.dll
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Common.pdb
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.dll
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.AssemblyReference.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.GeneratedMSBuildEditorConfig.editorconfig
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfoInputs.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.AssemblyInfo.cs
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CoreCompileInputs.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.sourcelink.json
+C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.Up2Date
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.dll
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\refint\Common.dll
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.pdb
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\Common.genruntimeconfig.cache
 C:\Users\user1\Desktop\לימודים\שנה ב\C#\פרויקט מ 3.6\SmartShopping-C-\Common\obj\Debug\net7.0\ref\Common.dll
-=======
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.dll
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\bin\Debug\net7.0\Repository.pdb
-C:\Users\user1\Desktop\לימודים\שנה ב\פרויקט!!!!!!!!!\חדש\SmartShopping-C-\Common\obj\Debug\net7.0\Common.csproj.CopyComplete
->>>>>>> e5e12a546b0ebd737c2a35966b679368e8bad36e

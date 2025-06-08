@@ -32,19 +32,16 @@ namespace Service.Service
 
         public void UserIdForAddIrem(int userId)
         {
-            userID =userId;
+            userID = userId;
         }
+
         public ProductDto AddItem(ProductDto item)
         {
-            // מיפוי ושמירת המוצר
             var productEntity = _mapper.Map<Product>(item);
             var savedProduct = _productRepository.Add(productEntity);
 
-            int userId =this.userID;
-            // מביא או יוצר רשימת קניות
-            var shoppingList = GetOrCreateUserShoppingList(userId);
+            var shoppingList = GetOrCreateUserShoppingList(userID);
 
-            // מוסיף את הפריט לרשימה
             var shoppingItem = new ShoppingListItem
             {
                 ProductId = savedProduct.Id,
@@ -56,9 +53,25 @@ namespace Service.Service
 
             return _mapper.Map<ProductDto>(savedProduct);
         }
+
         public void Delete(int id)
         {
+            var product = _productRepository.GetById(id);
+            if (product == null)
+                throw new Exception("Product not found");
+
+            // מחיקת פריטים שקשורים למוצר ברשימות קניות
+            var relatedItems = _shoppingListItemRepository.GetAll()
+                .Where(item => item.ProductId == id)
+                .ToList();
+
+            foreach (var item in relatedItems)
+            {
+                _shoppingListItemRepository.Delete(item.Id);
+            }
+
             _productRepository.Delete(id);
+
         }
 
         public List<ProductDto> GetAll()
@@ -70,6 +83,9 @@ namespace Service.Service
         public ProductDto GetById(int id)
         {
             var product = _productRepository.GetById(id);
+            if (product == null)
+                throw new Exception("Product not found");
+
             return _mapper.Map<ProductDto>(product);
         }
 
@@ -79,14 +95,27 @@ namespace Service.Service
             if (existing == null)
                 throw new Exception("Product not found");
 
-            // עדכון שדות
+            // עדכון שדות של המוצר
             existing.Name = item.Name;
             existing.Category = item.Category;
             existing.ImageUrl = item.ImageUrl;
             existing.Barcode = item.Barcode;
 
-            var productEntity = _mapper.Map<Product>(item);
-            var updated = _productRepository.Put(existing.Id, productEntity);
+            var updated = _productRepository.Put(existing.Id, existing);
+
+            // עדכון של פריטי רשימת קניות שקשורים למוצר הזה
+            var relatedItems = _shoppingListItemRepository.GetAll()
+                .Where(i => i.ProductId == id)
+                .ToList();
+
+            foreach (var itemRow in relatedItems)
+            {
+                // נניח שאת רוצה לעדכן רק שדות תצוגה או קשר למוצר החדש
+                itemRow.Product = existing; // או עדכון חלקי אם צריך
+                _shoppingListItemRepository.Put(itemRow.Id, itemRow);
+            }
+
+
             return _mapper.Map<ProductDto>(updated);
         }
 
@@ -104,7 +133,6 @@ namespace Service.Service
                 };
                 list = _shoppingListRepository.Add(list);
             }
-
             return list;
         }
     }

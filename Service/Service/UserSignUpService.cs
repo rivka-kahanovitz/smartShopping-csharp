@@ -30,7 +30,7 @@ namespace Service.Service
             var user = _mapper.Map<User>(dto);
             _repository.Add(user);
 
-            return _mapper.Map<UserSignUpDto>(_repository.Add(_mapper.Map<User>(user)));
+            return dto;
         }
 
         public void Delete(int id)

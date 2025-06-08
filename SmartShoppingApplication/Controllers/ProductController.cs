@@ -1,10 +1,8 @@
 ﻿using Microsoft.AspNetCore.Mvc;
-using Repository.Entities;
 using Mock;
 using Microsoft.AspNetCore.Authorization;
-using Common.Interfaces; // ודא שזו התיקייה שבה נמצאים ה-DTO
-using Common.DTOs;
 using Service.Service;
+using common.DTOs;
 
 namespace SmartShoppingApplication.Controllers
 {
@@ -15,7 +13,7 @@ namespace SmartShoppingApplication.Controllers
         private readonly DataBase _context;
         private readonly ProductService _productService;
 
-        public ProductController(DataBase context, IService<ProductDto> productService)
+        public ProductController(DataBase context, ProductService productService)
         {
             _context = context;
             _productService = productService;
@@ -72,9 +70,9 @@ namespace SmartShoppingApplication.Controllers
             int userId = int.Parse(userIdClaim.Value);
 
             // קורא לשירות שמטפל בלוגיקה (כולל רשימת קניות)
-            var productId = _productService.UsrIdFromAddItem(userId);
+            _productService.UserIdForAddIrem(userId);
 
-            return Ok(productId);
+            return Ok();
         }
 
         // עדכון מוצר

@@ -4,10 +4,9 @@ using System.IdentityModel.Tokens.Jwt;
 using System.Security.Claims;
 using System.Text;
 using Microsoft.IdentityModel.Tokens;
-
 public static class TokenGenerator
 {
-    public static string GenerateToken(int userId, string userEmail, string secretKey, int expireMinutes = 60)
+    public static string GenerateToken(string userEmail, string secretKey, string issuer, string audience, int expireMinutes = 60)
     {
         var tokenHandler = new JwtSecurityTokenHandler();
         var key = Encoding.ASCII.GetBytes(secretKey);
@@ -16,10 +15,11 @@ public static class TokenGenerator
         {
             Subject = new ClaimsIdentity(new[]
             {
-            new Claim(ClaimTypes.Email, userEmail),
-            new Claim("id", userId.ToString()) // 🆕 מזהה המשתמש
-        }),
+                new Claim(ClaimTypes.Email, userEmail)
+            }),
             Expires = DateTime.UtcNow.AddMinutes(expireMinutes),
+            Issuer = issuer,
+            Audience = audience,
             SigningCredentials = new SigningCredentials(
                 new SymmetricSecurityKey(key),
                 SecurityAlgorithms.HmacSha256Signature)
@@ -28,6 +28,6 @@ public static class TokenGenerator
         var token = tokenHandler.CreateToken(tokenDescriptor);
         return tokenHandler.WriteToken(token);
     }
-
 }
+
 
