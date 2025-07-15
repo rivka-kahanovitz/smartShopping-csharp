@@ -9,6 +9,7 @@ using Microsoft.AspNetCore.Authorization;
 using common.Interfaces;
 using System.Security.Claims;
 using Repository.Interfaces;
+using Microsoft.Extensions.Configuration; // חשוב
 
 namespace SmartShoppingApplication.Controllers
 {
@@ -18,41 +19,40 @@ namespace SmartShoppingApplication.Controllers
     {
         private readonly IService<UserLoginDto> _context;
         private readonly IRepository<User> _userRepository;
+        private readonly IConfiguration _configuration;  // הוסף שדה IConfiguration
 
-        public UserLoginController(IService<UserLoginDto> context, IRepository<User> userRepository)
+        // תוסיף את IConfiguration בקונסטרקטור
+        public UserLoginController(IService<UserLoginDto> context, IRepository<User> userRepository, IConfiguration configuration)
         {
             _context = context;
             _userRepository = userRepository;
+            _configuration = configuration;
         }
 
         [HttpPost("login")]
         public IActionResult Login([FromForm] UserLoginDto dto)
         {
             var user = _userRepository.GetAll().FirstOrDefault(u =>
-    u.Email == dto.Email && u.Password == PasswordHasher.Hash(dto.Password));
-
+                u.Email == dto.Email && u.Password == PasswordHasher.Hash(dto.Password));
 
             if (user == null)
                 return Unauthorized("שם משתמש או סיסמה שגויים");
 
-            // ✅ יוצרים Claims עם גם Email וגם Id
-            var claims = new[]
+            var claims = new List<Claim>
             {
-        new Claim("id", user.Id.ToString()),                         // חשוב! חובה לשים אותו בשם "id"
-        new Claim(ClaimTypes.Email, user.Email)
-    };
+                new Claim("id", user.Id.ToString()),
+                new Claim(ClaimTypes.Email, user.Email),
+                new Claim(ClaimTypes.Role, user.IsAdmin ? "Admin" : "User")
+            };
 
-            var token = TokenGenerator.GenerateToken(
-                claims,
-                "ThisIsAReallyStrongSecretKey123456789!", // אפשר מה־Configuration
-                "SmartShoppingAPI",
-                "SmartShoppingClient"
-            );
+            var secretKey = _configuration["Jwt:SecretKey"];
+            var issuer = _configuration["Jwt:Issuer"];
+            var audience = _configuration["Jwt:Audience"];
 
-            return Ok(new { token });
+            var (token, expiresAt) = TokenGenerator.GenerateToken(claims, secretKey, issuer, audience);
+
+            return Ok(new { token, expiresAt });
         }
-
-
 
     }
 }

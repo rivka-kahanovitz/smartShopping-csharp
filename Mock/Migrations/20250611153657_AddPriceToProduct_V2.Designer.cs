@@ -3,6 +3,7 @@ using System;
 using Microsoft.EntityFrameworkCore;
 using Microsoft.EntityFrameworkCore.Infrastructure;
 using Microsoft.EntityFrameworkCore.Metadata;
+using Microsoft.EntityFrameworkCore.Migrations;
 using Microsoft.EntityFrameworkCore.Storage.ValueConversion;
 using Mock;
 
@@ -11,9 +12,11 @@ using Mock;
 namespace Mock.Migrations
 {
     [DbContext(typeof(DataBase))]
-    partial class DataBaseModelSnapshot : ModelSnapshot
+    [Migration("20250611153657_AddPriceToProduct_V2")]
+    partial class AddPriceToProduct_V2
     {
-        protected override void BuildModel(ModelBuilder modelBuilder)
+        /// <inheritdoc />
+        protected override void BuildTargetModel(ModelBuilder modelBuilder)
         {
 #pragma warning disable 612, 618
             modelBuilder
@@ -22,7 +25,7 @@ namespace Mock.Migrations
 
             SqlServerModelBuilderExtensions.UseIdentityColumns(modelBuilder);
 
-            modelBuilder.Entity("Repository.Entities.AllProductsStores", b =>
+            modelBuilder.Entity("Repository.Entities.Price", b =>
                 {
                     b.Property<int>("Id")
                         .ValueGeneratedOnAdd()
@@ -30,21 +33,22 @@ namespace Mock.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Barcode")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
-                    b.Property<double>("Price")
+                    b.Property<double>("PriceValue")
                         .HasColumnType("float");
+
+                    b.Property<int>("ProductId")
+                        .HasColumnType("int");
 
                     b.Property<int>("StoreId")
                         .HasColumnType("int");
 
                     b.HasKey("Id");
 
+                    b.HasIndex("ProductId");
+
                     b.HasIndex("StoreId");
 
-                    b.ToTable("AllProductsStores");
+                    b.ToTable("Prices");
                 });
 
             modelBuilder.Entity("Repository.Entities.Product", b =>
@@ -75,6 +79,9 @@ namespace Mock.Migrations
                         .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
+
+                    b.Property<double>("Price")
+                        .HasColumnType("float");
 
                     b.HasKey("Id");
 
@@ -141,11 +148,11 @@ namespace Mock.Migrations
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("BranchName")
+                    b.Property<string>("Chain")
                         .IsRequired()
                         .HasColumnType("nvarchar(max)");
 
-                    b.Property<string>("StorName")
+                    b.Property<string>("Name")
                         .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
@@ -163,10 +170,6 @@ namespace Mock.Migrations
 
                     SqlServerPropertyBuilderExtensions.UseIdentityColumn(b.Property<int>("Id"));
 
-                    b.Property<string>("Address")
-                        .IsRequired()
-                        .HasColumnType("nvarchar(max)");
-
                     b.Property<DateTime>("CreatedAt")
                         .HasColumnType("datetime2");
 
@@ -174,9 +177,6 @@ namespace Mock.Migrations
                         .IsRequired()
                         .HasMaxLength(255)
                         .HasColumnType("nvarchar(255)");
-
-                    b.Property<bool>("IsAdmin")
-                        .HasColumnType("bit");
 
                     b.Property<string>("Name")
                         .IsRequired()
@@ -195,15 +195,23 @@ namespace Mock.Migrations
                     b.ToTable("Users");
                 });
 
-            modelBuilder.Entity("Repository.Entities.AllProductsStores", b =>
+            modelBuilder.Entity("Repository.Entities.Price", b =>
                 {
-                    b.HasOne("Repository.Entities.Stores", "Stores")
-                        .WithMany("AllProductsStores")
+                    b.HasOne("Repository.Entities.Product", "Product")
+                        .WithMany()
+                        .HasForeignKey("ProductId")
+                        .OnDelete(DeleteBehavior.Cascade)
+                        .IsRequired();
+
+                    b.HasOne("Repository.Entities.Stores", "Store")
+                        .WithMany()
                         .HasForeignKey("StoreId")
                         .OnDelete(DeleteBehavior.Cascade)
                         .IsRequired();
 
-                    b.Navigation("Stores");
+                    b.Navigation("Product");
+
+                    b.Navigation("Store");
                 });
 
             modelBuilder.Entity("Repository.Entities.ShoppingList", b =>
@@ -239,11 +247,6 @@ namespace Mock.Migrations
             modelBuilder.Entity("Repository.Entities.ShoppingList", b =>
                 {
                     b.Navigation("ShoppingListItems");
-                });
-
-            modelBuilder.Entity("Repository.Entities.Stores", b =>
-                {
-                    b.Navigation("AllProductsStores");
                 });
 
             modelBuilder.Entity("Repository.Entities.User", b =>

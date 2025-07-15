@@ -3,108 +3,107 @@ using common.DTOs;
 using common.Interfaces;
 using Repository.Entities;
 using Repository.Interfaces;
-using System;
-using System.Collections.Generic;
-using System.Linq;
 
-namespace Service.Service
+public class ShoppingListService : IService<ShoppingListDto>
 {
-    public class ShoppingListService : IService<ShoppingListDto>
+    private readonly IRepository<ShoppingList> _shoppingListRepository;
+    private readonly IRepository<ShoppingListItem> _shoppingListItemRepository;
+    private readonly IRepository<Product> _productRepository;
+    private readonly IMapper _mapper;
+
+    private int _userId;
+
+    public void SetUserId(int userId)
     {
-        //כשיהיה קונטרולר לשים שם את הפונקציה הזאת
-                /*/
-        [Authorize]
-        [HttpPost]
-        public ActionResult<ShoppingListDto> Create([FromForm] ShoppingListDto dto)
+        _userId = userId;
+    }
+
+    public ShoppingListService(
+        IRepository<ShoppingList> shoppingListRepository,
+        IRepository<ShoppingListItem> shoppingListItemRepository,
+        IRepository<Product> productRepository,
+        IMapper mapper)
+    {
+        _shoppingListRepository = shoppingListRepository;
+        _shoppingListItemRepository = shoppingListItemRepository;
+        _productRepository = productRepository;
+        _mapper = mapper;
+    }
+
+    public ShoppingListDto AddItem(ShoppingListDto itemDto)
+    {
+        var entity = _mapper.Map<ShoppingList>(itemDto);
+        entity.UserId = _userId;
+
+        // שלב 1: שמירת רשימת קניות ללא הפריטים
+        entity.ShoppingListItems = null;
+        var addedList = _shoppingListRepository.Add(entity);
+
+        // שלב 2: הכנסת הפריטים עם זיהוי ProductId לפי ברקוד
+        foreach (var item in itemDto.Items)
         {
-            var userIdClaim = User.FindFirst("id");
-            if (userIdClaim == null)
-                return Unauthorized("Missing user ID in token.");
+            var product = _productRepository
+                .GetAll()
+                .FirstOrDefault(p => p.Barcode == item.Barcode);
 
-            int userId = int.Parse(userIdClaim.Value);
+            if (product == null)
+                throw new Exception($"Product with barcode {item.Barcode} not found.");
 
-            _shoppingListService.SetUserId(userId); // בדיוק כמו שעשית עם המוצר
+            var itemEntity = _mapper.Map<ShoppingListItem>(item);
+            itemEntity.ProductId = product.Id; // עדכון ה־FK הנכון
+            itemEntity.ListId = addedList.Id;
 
-            var newList = _shoppingListService.AddItem(dto);
-            return Ok(newList);
-        }
-        */
-        private int userId;
-
-        private readonly IRepository<ShoppingList> _shoppingListRepository;
-        private readonly IRepository<ShoppingListItem> _shoppingListItemRepository;
-        private readonly IMapper _mapper;
-
-        public ShoppingListService(
-            IRepository<ShoppingList> shoppingListRepository,
-            IRepository<ShoppingListItem> shoppingListItemRepository,
-            IMapper mapper)
-        {
-            _shoppingListRepository = shoppingListRepository;
-            _shoppingListItemRepository = shoppingListItemRepository;
-            _mapper = mapper;
-        }
-
-        public void SetUserId(int id)
-        {
-            userId = id;
-        }
-
-        public ShoppingListDto AddItem(ShoppingListDto item)
-        {
-            var entity = _mapper.Map<ShoppingList>(item);
-            entity.UserId = userId;
-
-            var added = _shoppingListRepository.Add(entity);
-            return _mapper.Map<ShoppingListDto>(added);
+            _shoppingListItemRepository.Add(itemEntity);
         }
 
-        public void Delete(int id)
+        return _mapper.Map<ShoppingListDto>(addedList);
+    }
+
+    public void Delete(int id)
+    {
+        var list = _shoppingListRepository.GetById(id);
+        if (list == null || list.UserId != _userId)
+            throw new Exception("Shopping list not found");
+
+        var relatedItems = _shoppingListItemRepository.GetAll()
+            .Where(item => item.ListId == id)
+            .ToList();
+
+        foreach (var item in relatedItems)
         {
-            var list = _shoppingListRepository.GetById(id);
-            if (list == null)
-                throw new Exception("Shopping list not found");
-
-            var relatedItems = _shoppingListItemRepository.GetAll()
-                .Where(item => item.ListId == id)
-                .ToList();
-
-            foreach (var item in relatedItems)
-            {
-                _shoppingListItemRepository.Delete(item.Id);
-            }
-
-            _shoppingListRepository.Delete(id);
+            _shoppingListItemRepository.Delete(item.Id);
         }
 
-        public List<ShoppingListDto> GetAll()
-        {
-            var allLists = _shoppingListRepository.GetAll()
-                .Where(l => l.UserId == userId)
-                .ToList();
+        _shoppingListRepository.Delete(id);
+    }
 
-            return _mapper.Map<List<ShoppingListDto>>(allLists);
-        }
+    public List<ShoppingListDto> GetAll()
+    {
+        var allLists = _shoppingListRepository.GetAll()
+            .Where(l => l.UserId == _userId)
+            .ToList();
 
-        public ShoppingListDto GetById(int id)
-        {
-            var list = _shoppingListRepository.GetById(id);
-            if (list == null || list.UserId != userId)
-                throw new Exception("Shopping list not found");
+        return _mapper.Map<List<ShoppingListDto>>(allLists);
+    }
 
-            return _mapper.Map<ShoppingListDto>(list);
-        }
+    public ShoppingListDto GetById(int id)
+    {
+        var list = _shoppingListRepository.GetById(id);
+        if (list == null || list.UserId != _userId)
+            throw new Exception("Shopping list not found");
 
-        public ShoppingListDto Update(int id, ShoppingListDto item)
-        {
-            var existing = _shoppingListRepository.GetById(id);
-            if (existing == null || existing.UserId != userId)
-                throw new Exception("Shopping list not found");
+        return _mapper.Map<ShoppingListDto>(list);
+    }
 
-            existing.Title = item.Title;
+    public ShoppingListDto Update(int id, ShoppingListDto item)
+    {
+        var existing = _shoppingListRepository.GetById(id);
+        if (existing == null || existing.UserId != _userId)
+            throw new Exception("Shopping list not found");
 
-            var updated = _shoppingListRepository.Put(id, existing);
-            return _mapper.Map<ShoppingListDto>(updated);
-        }
+        existing.Title = item.Title;
+
+        var updated = _shoppingListRepository.Put(id, existing);
+        return _mapper.Map<ShoppingListDto>(updated);
     }
 }

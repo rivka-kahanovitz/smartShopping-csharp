@@ -14,14 +14,10 @@ namespace Repository.Entities
 
         [Required]
         [MaxLength(255)]
-        public string Name { get; set; }
-
-        public string Chain { get; set; }
-
+        public string StorName { get; set; }
+        public string BranchName { get; set; }
         public string Address { get; set; }
+        public List<AllProductsStores> AllProductsStores { get; set; } = new List<AllProductsStores>();
 
-        //public decimal Latitude { get; set; }
-
-        //public decimal Longitude { get; set; }
     }
 }

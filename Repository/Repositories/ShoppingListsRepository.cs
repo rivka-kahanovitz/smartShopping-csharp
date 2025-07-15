@@ -1,4 +1,5 @@
-﻿using Repository.Entities;
+﻿using Microsoft.EntityFrameworkCore;
+using Repository.Entities;
 using Repository.Interfaces;
 using System;
 using System.Collections.Generic;
@@ -29,7 +30,10 @@ namespace Repository.Repositories
         }
         public ShoppingList GetById(int id)
         {
-            return context.ShoppingLists.FirstOrDefault(x => x.Id == id);
+            return context.ShoppingLists
+           .Include(l => l.ShoppingListItems)
+           .ThenInclude(i => i.Product)
+           .FirstOrDefault(l => l.Id == id);
         }
 
         public ShoppingList Put(int id, ShoppingList item)

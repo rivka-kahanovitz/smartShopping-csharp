@@ -2,6 +2,7 @@
 using common.Interfaces;
 using Microsoft.AspNetCore.Authorization;
 using Microsoft.AspNetCore.Mvc;
+using Service.Service;
 using System.Collections.Generic;
 using System.Security.Claims;
 
@@ -28,25 +29,36 @@ namespace SmartShoppingApplication.Controllers
             int userId = int.Parse(userIdClaim.Value);
 
             // שליחה לשירות את ה־userId
-            (_service as dynamic).SetUserId(userId);
+            //_shoppingListService.SetUserId(userId);
             return true;
         }
 
+        [Authorize]
         [HttpPost]
-        public ActionResult<ShoppingListDto> Create([FromForm] ShoppingListDto dto)
+        public ActionResult<ShoppingListDto> Create([FromBody] ShoppingListDto dto)
         {
-            if (!TrySetUserId())
+            var userIdClaim = User.FindFirst("id");
+            if (userIdClaim == null)
                 return Unauthorized("Missing user ID in token.");
 
+            int userId = int.Parse(userIdClaim.Value);
+
+            (_service as dynamic).SetUserId(userId);
+
             var newList = _service.AddItem(dto);
-            return CreatedAtAction(nameof(GetById), new { id = newList.Id }, newList);
+            return Ok(newList);
         }
+
 
         [HttpGet]
         public ActionResult<List<ShoppingListDto>> GetAll()
         {
-            if (!TrySetUserId())
+            var userIdClaim = User.FindFirst("id");
+            if (userIdClaim == null)
                 return Unauthorized("Missing user ID in token.");
+
+            int userId = int.Parse(userIdClaim.Value);
+            (_service as dynamic).SetUserId(userId);
 
             return Ok(_service.GetAll());
         }
@@ -54,8 +66,12 @@ namespace SmartShoppingApplication.Controllers
         [HttpGet("{id}")]
         public ActionResult<ShoppingListDto> GetById(int id)
         {
-            if (!TrySetUserId())
+            var userIdClaim = User.FindFirst("id");
+            if (userIdClaim == null)
                 return Unauthorized("Missing user ID in token.");
+
+            int userId = int.Parse(userIdClaim.Value);
+            (_service as dynamic).SetUserId(userId);
 
             try
             {
@@ -70,8 +86,12 @@ namespace SmartShoppingApplication.Controllers
         [HttpPut("{id}")]
         public ActionResult<ShoppingListDto> Update(int id, [FromForm] ShoppingListDto dto)
         {
-            if (!TrySetUserId())
+            var userIdClaim = User.FindFirst("id");
+            if (userIdClaim == null)
                 return Unauthorized("Missing user ID in token.");
+
+            int userId = int.Parse(userIdClaim.Value);
+            (_service as dynamic).SetUserId(userId);
 
             try
             {
@@ -87,8 +107,12 @@ namespace SmartShoppingApplication.Controllers
         [HttpDelete("{id}")]
         public IActionResult Delete(int id)
         {
-            if (!TrySetUserId())
+            var userIdClaim = User.FindFirst("id");
+            if (userIdClaim == null)
                 return Unauthorized("Missing user ID in token.");
+
+            int userId = int.Parse(userIdClaim.Value);
+            (_service as dynamic).SetUserId(userId);
 
             try
             {

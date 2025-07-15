@@ -66,7 +66,7 @@ namespace Service.Service
             dto.Password = PasswordHasher.Hash(dto.Password);
 
             var updatedUser = _mapper.Map<User>(dto);
-            updatedUser.Id = id; // חשוב – לא לאבד את המזהה!
+            updatedUser.Id = id; 
 
             var result = _repository.Put(id, updatedUser);
             return _mapper.Map<UserSignUpDto>(result);

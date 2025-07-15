@@ -12,7 +12,6 @@ namespace Repository.Entities
     {
         [Key]
         public int Id { get; set; }
-        //דרוש הסבר  :)
 
         [ForeignKey("ShoppingList")]
         public int ListId { get; set; }

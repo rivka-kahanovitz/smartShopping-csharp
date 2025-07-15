@@ -41,11 +41,6 @@ namespace SmartShoppingApplication.Controllers
             if (userIdClaim == null)
                 return Unauthorized("Missing user ID in token.");
 
-            int userId = int.Parse(userIdClaim.Value);
-
-            // הפעלת שירות שיאחסן את ה־userId
-            (_service as dynamic).SetUserId(userId);
-
             var added = _service.AddItem(dto);
             return CreatedAtAction(nameof(GetById), new { id = added.ProductId }, added);
         }

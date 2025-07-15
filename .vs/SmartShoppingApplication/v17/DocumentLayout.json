@@ -1,168 +1,313 @@
 {
   "Version": 1,
-  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\",
+  "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\controllers\\usersignupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\usersignupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\usersignupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\userlogincontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\service\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\service\\usersignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\usersignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\usersignupservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\service\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\userservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\utils\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\userrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iuserrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\userlogindto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\userdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\usersignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\usersignupdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|solutionrelative:mock\\database.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\entities\\shoppinglists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\utils\\shoppingrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\shoppingrecommendationservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\utils\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\tokengenerator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\utils\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\smtpsettings.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\utils\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\utils\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\weatherforecast.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\utils\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\emailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\userloginservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\storeservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\shoppinglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\shoppinglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\shoppinglistitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\shoppinglistitemservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\extensionservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service\\allproductstoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\allproductstoresservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\basketdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\beststoreresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\beststoreresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\storecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\allproductstoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\allproductstoresdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\forgotpassworddto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\mock\\migrations\\20250706120506_addaddressandisadmintouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250706120506_addaddressandisadmintouser.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\mock\\migrations\\20250706184232_addaddresscolumntousers2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\20250706184232_addaddresscolumntousers2.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\mock\\migrations\\databasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{E2067443-C60E-4324-A568-A50127345ECC}|Mock\\Mock.csproj|solutionrelative:mock\\migrations\\databasemodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\20250706183242_AddAdressColumnToUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Mock\\Migrations\\20250706183242_AddAdressColumnToUsers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\pricecomparisoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\pricecomparisoncontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\interfaces\\iuserservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\interfaces\\iservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\iemailsender.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\repositories\\allprosuctstoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\allprosuctstoresrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\entities\\allproductstores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\allproductstores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\entities\\shoppinglists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\shoppinglists.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\repositories\\shoppinglistitemrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\shoppinglistitemrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\entities\\shoppinglistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\entities\\shoppinglistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\shoppinglistitem.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\repositories\\shoppinglistsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\shoppinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\shoppinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\repositories\\shoppinglistsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\shoppinglistsrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\shoppinglistcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\shoppinglistitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\shoppinglistitemcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\storesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\storesdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\repositories\\shoppinglistitemrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\shoppinglistitemrpository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\productdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\shoppinglistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\shoppinglistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repository.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\smartshoppingapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\smartshoppingapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\common.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\service\\shoppinglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\shoppinglistservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\common\\dtos\\shoppinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\shoppinglistdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\common\\dtos\\shoppinglistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\shoppinglistitemdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\service\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\productrepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\irepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\smartshoppingapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\smartshoppingapplication.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\repositories\\storerepository.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\user.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
       "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\properties\\launchsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\utils\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\mapperprofile.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\store.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\entities\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\entities\\price.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\utils\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\imagedownloader.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\utils\\passwordhasher.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "AbsoluteMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D3DCC698-F70D-4C4E-94BB-B8C7E1B75721}|Service\\Service.csproj|solutionrelative:service\\class1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{F43AC7C0-25F2-41B8-B211-74A466C5D022}|Repository\\Repository.csproj|solutionrelative:repository\\interfaces\\icontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D7\u05D3\u05E9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\WeatherForecastController.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Interfaces\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\Interfaces\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Interfaces\\IService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\DTOs\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserLoginDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserSignUpDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Service\\DTOs\\UserSignUpDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserSignUpDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\smartshopping-c-\\smartshoppingapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\usercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\PriceCalculatorService.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\Migrations\\20250702142742_AddNewCaluomPriceToAllProdutsStores.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\Migrations\\20250702125141_AddNewTableAndUpdateExisting.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -180,291 +325,840 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Program.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Program.cs",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\Program.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Program.cs",
-              "RelativeToolTip": "SmartShoppingApplication\\Program.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAPAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T12:36:30.681Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
-              "RelativeToolTip": "SmartShoppingApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAANAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T12:03:09.473Z"
-            },
-            {
-              "$type": "Document",
               "DocumentIndex": 6,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:13:26.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\UserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\UserRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\UserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\UserRepository.cs",
               "RelativeToolTip": "Repository\\Repositories\\UserRepository.cs",
-              "ViewState": "AgIAABQAAAAAAAAAAAAUwCMAAAAIAAAAAAAAAA==",
+              "ViewState": "AgIAACMAAAAAAAAAAAAmwAwAAAAxAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T16:10:54.76Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 4,
-              "Title": "ExtensionService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\ExtensionService.cs",
-              "RelativeDocumentMoniker": "Service\\Service\\ExtensionService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\ExtensionService.cs",
-              "RelativeToolTip": "Service\\Service\\ExtensionService.cs",
-              "ViewState": "AgIAAAoAAAAAAAAAAAAzwBIAAAAAAAAAAAAAAA==",
+              "Title": "UserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\UserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserService.cs",
+              "RelativeToolTip": "Service\\Service\\UserService.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAAA4wDEAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T12:51:22.25Z"
+              "WhenOpened": "2025-07-01T12:31:33.106Z"
             },
             {
               "$type": "Document",
               "DocumentIndex": 3,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\ProductController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\ProductController.cs",
-              "ViewState": "AgIAAEwAAAAAAAAAAAAAwFEAAAA1AAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T12:34:48.85Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "UserSignUpController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
-              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
-              "ViewState": "AgIAABMAAAAAAAAAAAAQwBsAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-08T08:49:58.406Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "UserLoginController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserLoginController.cs",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserLoginController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserLoginController.cs",
-              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\UserLoginController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T18:43:56.533Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 10,
-              "Title": "DataBase.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\DataBase.cs",
-              "RelativeDocumentMoniker": "Mock\\DataBase.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\DataBase.cs",
-              "RelativeToolTip": "Mock\\DataBase.cs",
-              "ViewState": "AgIAABgAAAAAAAAAAAA0wCIAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T12:45:45.21Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 7,
               "Title": "UserSignUpService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\UserSignUpService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserSignUpService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\UserSignUpService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\UserSignUpService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserSignUpService.cs",
               "RelativeToolTip": "Service\\Service\\UserSignUpService.cs",
-              "ViewState": "AgIAABAAAAAAAAAAAAAzwB0AAAAfAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEQAAAAhAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T13:44:30.183Z"
             },
             {
               "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "UserController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\UserController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFoAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-15T10:38:49.957Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UserLoginController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserLoginController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserLoginController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserLoginController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\UserLoginController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAmwCQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T18:43:56.533Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UserSignUpController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-08T08:49:58.406Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "User.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\User.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\User.cs",
+              "RelativeToolTip": "Repository\\Entities\\User.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwCUAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T10:28:48.496Z"
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 8,
+              "Title": "UserLoginDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\UserLoginDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\UserLoginDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAsAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T12:05:15.92Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "UserDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\UserDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\UserDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:54:00.474Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "UserSignUpDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserSignUpDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\UserSignUpDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserSignUpDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\UserSignUpDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-16T16:10:00.532Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "DataBase.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\DataBase.cs",
+              "RelativeDocumentMoniker": "Mock\\DataBase.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\DataBase.cs",
+              "RelativeToolTip": "Mock\\DataBase.cs",
+              "ViewState": "AgIAABUAAAAAAAAAAAAYwCAAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:45:28.106Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "ShoppingRecommendationService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\ShoppingRecommendationService.cs",
+              "RelativeDocumentMoniker": "Service\\Utils\\ShoppingRecommendationService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\ShoppingRecommendationService.cs",
+              "RelativeToolTip": "Service\\Utils\\ShoppingRecommendationService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:46:36.951Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "TokenGenerator.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\TokenGenerator.cs",
+              "RelativeDocumentMoniker": "Service\\Utils\\TokenGenerator.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\TokenGenerator.cs",
+              "RelativeToolTip": "Service\\Utils\\TokenGenerator.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:15:11.623Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "PasswordHasher.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\PasswordHasher.cs",
+              "RelativeDocumentMoniker": "Service\\Utils\\PasswordHasher.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\PasswordHasher.cs",
+              "RelativeToolTip": "Service\\Utils\\PasswordHasher.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:14:54.157Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "SmtpSettings.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\SmtpSettings.cs",
+              "RelativeDocumentMoniker": "Service\\Utils\\SmtpSettings.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\SmtpSettings.cs",
+              "RelativeToolTip": "Service\\Utils\\SmtpSettings.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T06:21:30.999Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "MapperProfile.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\MapperProfile.cs",
+              "RelativeDocumentMoniker": "Service\\Utils\\MapperProfile.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\MapperProfile.cs",
+              "RelativeToolTip": "Service\\Utils\\MapperProfile.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAuwBkAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-26T13:14:47.454Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ImageDownloader.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\ImageDownloader.cs",
+              "RelativeDocumentMoniker": "Service\\Utils\\ImageDownloader.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\ImageDownloader.cs",
+              "RelativeToolTip": "Service\\Utils\\ImageDownloader.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:38:17.562Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "WeatherForecast.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\WeatherForecast.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\WeatherForecast.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\WeatherForecast.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\WeatherForecast.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-09T09:42:30.648Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "EmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\EmailSender.cs",
+              "RelativeDocumentMoniker": "Service\\Utils\\EmailSender.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\EmailSender.cs",
+              "RelativeToolTip": "Service\\Utils\\EmailSender.cs",
+              "ViewState": "AgIAABEAAAAAAAAAAAAIwB0AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:28:19.381Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
               "Title": "UserloginService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\UserloginService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserloginService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\UserloginService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\UserloginService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserloginService.cs",
               "RelativeToolTip": "Service\\Service\\UserloginService.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAAUwCkAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACsAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T11:50:22.479Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
-              "Title": "TokenGenerator.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\TokenGenerator.cs",
-              "RelativeDocumentMoniker": "Service\\Utils\\TokenGenerator.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\TokenGenerator.cs",
-              "RelativeToolTip": "Service\\Utils\\TokenGenerator.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAcwAYAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 21,
+              "Title": "StoreService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\StoreService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\StoreService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\StoreService.cs",
+              "RelativeToolTip": "Service\\Service\\StoreService.cs",
+              "ViewState": "AgIAACkAAAAAAAAAAAA9wAsAAAApAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:15:11.623Z",
-              "EditorCaption": ""
+              "WhenOpened": "2025-07-02T15:13:05.768Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
-              "Title": "ShoppingListItemRpository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListItemRpository.cs",
-              "RelativeDocumentMoniker": "Repository\\Repositories\\ShoppingListItemRpository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListItemRpository.cs",
-              "RelativeToolTip": "Repository\\Repositories\\ShoppingListItemRpository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T20:41:29.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 11,
-              "Title": "ShoppingLists.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\ShoppingLists.cs",
-              "RelativeDocumentMoniker": "Repository\\Entities\\ShoppingLists.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\ShoppingLists.cs",
-              "RelativeToolTip": "Repository\\Entities\\ShoppingLists.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAowAoAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:31:19.882Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 22,
               "Title": "ShoppingListService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\ShoppingListService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ShoppingListService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\ShoppingListService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\ShoppingListService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ShoppingListService.cs",
               "RelativeToolTip": "Service\\Service\\ShoppingListService.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA4AAAATAAAAAAAAAA==",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAswBwAAAAvAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T19:14:00.668Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
-              "Title": "ShoppingListDto.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\DTOs\\ShoppingListDto.cs",
-              "RelativeDocumentMoniker": "Common\\DTOs\\ShoppingListDto.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\DTOs\\ShoppingListDto.cs",
-              "RelativeToolTip": "Common\\DTOs\\ShoppingListDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "DocumentIndex": 23,
+              "Title": "ShoppingListItemService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ShoppingListItemService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\ShoppingListItemService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ShoppingListItemService.cs",
+              "RelativeToolTip": "Service\\Service\\ShoppingListItemService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:16:30.938Z"
+              "WhenOpened": "2025-06-11T15:58:59.735Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
-              "Title": "ShoppingListsRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListsRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Repositories\\ShoppingListsRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListsRepository.cs",
-              "RelativeToolTip": "Repository\\Repositories\\ShoppingListsRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T20:36:44.932Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 13,
-              "Title": "ShoppingListItem.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\ShoppingListItem.cs",
-              "RelativeDocumentMoniker": "Repository\\Entities\\ShoppingListItem.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\ShoppingListItem.cs",
-              "RelativeToolTip": "Repository\\Entities\\ShoppingListItem.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAYwBwAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:33:30.602Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 15,
-              "Title": "Microsoft.Common.CurrentVersion.targets",
-              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
-              "ViewState": "AgIAALoLAAAAAAAAAAAowMALAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
-              "WhenOpened": "2025-06-05T19:59:32.657Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 18,
-              "Title": "ShoppingListItemDto.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\DTOs\\ShoppingListItemDto.cs",
-              "RelativeDocumentMoniker": "Common\\DTOs\\ShoppingListItemDto.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\DTOs\\ShoppingListItemDto.cs",
-              "RelativeToolTip": "Common\\DTOs\\ShoppingListItemDto.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAqAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T19:19:58.493Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 24,
               "Title": "ProductService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\ProductService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\ProductService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Service\\ProductService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ProductService.cs",
               "RelativeToolTip": "Service\\Service\\ProductService.cs",
-              "ViewState": "AgIAAHAAAAAAAAAAAAAUwHcAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAHAAAAAAAAAAAAAwwG8AAAANAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-05T18:00:18.072Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
-              "Title": "StoreRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\StoreRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Repositories\\StoreRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\StoreRepository.cs",
-              "RelativeToolTip": "Repository\\Repositories\\StoreRepository.cs",
-              "ViewState": "AgIAABUAAAAAAAAAAAAYwB8AAAAAAAAAAAAAAA==",
+              "DocumentIndex": 25,
+              "Title": "ExtensionService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ExtensionService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\ExtensionService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ExtensionService.cs",
+              "RelativeToolTip": "Service\\Service\\ExtensionService.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvyUAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T16:13:14.791Z"
+              "WhenOpened": "2025-07-09T09:27:33.594Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 26,
+              "Title": "AllProductStoresService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\AllProductStoresService.cs",
+              "RelativeDocumentMoniker": "Service\\Service\\AllProductStoresService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\AllProductStoresService.cs",
+              "RelativeToolTip": "Service\\Service\\AllProductStoresService.cs",
+              "ViewState": "AgIAACIAAAAAAAAAAAAkwAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:12:19.655Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 27,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Program.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Program.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Program.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Program.cs",
+              "ViewState": "AgIAAGcAAAAAAAAAAAAQwHEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:36:30.681Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 28,
+              "Title": "BasketDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\BasketDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\BasketDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\BasketDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\BasketDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAA2AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:54:24.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 29,
+              "Title": "BestStoreResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\BestStoreResultDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\BestStoreResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T17:47:32.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 30,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
+              "RelativeToolTip": "SmartShoppingApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T12:03:09.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 31,
+              "Title": "ImagesController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ImagesController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\ImagesController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ImagesController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\ImagesController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAADAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-03T13:38:46.737Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 32,
+              "Title": "StoreController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\StoreController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\StoreController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\StoreController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\StoreController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:24:30.447Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 33,
+              "Title": "AllProductStoresDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\AllProductStoresDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\AllProductStoresDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\AllProductStoresDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\AllProductStoresDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:09:55.981Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 35,
+              "Title": "20250706120506_AddAddressAndIsAdminToUser.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\20250706120506_AddAddressAndIsAdminToUser.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250706120506_AddAddressAndIsAdminToUser.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\20250706120506_AddAddressAndIsAdminToUser.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250706120506_AddAddressAndIsAdminToUser.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:47:08.218Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 34,
+              "Title": "ForgotPasswordDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ForgotPasswordDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\ForgotPasswordDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ForgotPasswordDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\ForgotPasswordDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAApAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:21:51.959Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 39,
+              "Title": "20250706183242_AddAdressColumnToUsers.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\20250706183242_AddAdressColumnToUsers.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250706183242_AddAdressColumnToUsers.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\20250706183242_AddAdressColumnToUsers.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250706183242_AddAdressColumnToUsers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:32:42.659Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 37,
+              "Title": "DataBaseModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\DataBaseModelSnapshot.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\DataBaseModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\DataBaseModelSnapshot.cs",
+              "RelativeToolTip": "Mock\\Migrations\\DataBaseModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:37:45.003Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 36,
+              "Title": "20250706184232_AddAddressColumnToUsers2.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\20250706184232_AddAddressColumnToUsers2.cs",
+              "RelativeDocumentMoniker": "Mock\\Migrations\\20250706184232_AddAddressColumnToUsers2.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\Migrations\\20250706184232_AddAddressColumnToUsers2.cs",
+              "RelativeToolTip": "Mock\\Migrations\\20250706184232_AddAddressColumnToUsers2.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T18:42:32.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 38,
+              "Title": "IContext.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IContext.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContext.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IContext.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:24:24.265Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 40,
+              "Title": "PriceComparisonController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\PriceComparisonController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\PriceComparisonController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\PriceComparisonController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\PriceComparisonController.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAYwDIAAAA1AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T16:06:43.31Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 41,
+              "Title": "IUserService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Interfaces\\IUserService.cs",
+              "RelativeDocumentMoniker": "Common\\Interfaces\\IUserService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Interfaces\\IUserService.cs",
+              "RelativeToolTip": "Common\\Interfaces\\IUserService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:20:23.835Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 42,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "Common\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Interfaces\\IService.cs",
+              "RelativeToolTip": "Common\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:05:35.354Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 43,
               "Title": "IRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Interfaces\\IRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Interfaces\\IRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Interfaces\\IRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IRepository.cs",
               "RelativeToolTip": "Repository\\Interfaces\\IRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAJAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:38:49.98Z"
+              "WhenOpened": "2025-07-06T05:10:02.939Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 44,
+              "Title": "IEmailSender.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IEmailSender.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IEmailSender.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IEmailSender.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IEmailSender.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:14:09.096Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 47,
+              "Title": "Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Class1.cs",
+              "RelativeDocumentMoniker": "Repository\\Class1.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Class1.cs",
+              "RelativeToolTip": "Repository\\Class1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T04:54:44.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 48,
               "Title": "ProductRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\ProductRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\ProductRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\ProductRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Repositories\\ProductRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\ProductRepository.cs",
               "RelativeToolTip": "Repository\\Repositories\\ProductRepository.cs",
-              "ViewState": "AgIAACEAAAAAAAAAAAA7wC8AAAAxAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwA0AAAAqAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T15:44:42.953Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 46,
+              "Title": "AllProsuctStoresRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\AllProsuctStoresRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\AllProsuctStoresRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\AllProsuctStoresRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\AllProsuctStoresRepository.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwAcAAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:55:08.046Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 45,
+              "Title": "Service.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service.csproj",
+              "RelativeDocumentMoniker": "Service\\Service.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service.csproj",
+              "RelativeToolTip": "Service\\Service.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-02T15:17:30.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 49,
+              "Title": "AllProductStores.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\AllProductStores.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\AllProductStores.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\AllProductStores.cs",
+              "RelativeToolTip": "Repository\\Entities\\AllProductStores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:41:50.008Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 50,
+              "Title": "Store.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\Store.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Store.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\Store.cs",
+              "RelativeToolTip": "Repository\\Entities\\Store.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-01T11:53:42.089Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 51,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\Product.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\Product.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\Product.cs",
+              "RelativeToolTip": "Repository\\Entities\\Product.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAgwBwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:58:39.758Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 52,
+              "Title": "ShoppingLists.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\ShoppingLists.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\ShoppingLists.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\ShoppingLists.cs",
+              "RelativeToolTip": "Repository\\Entities\\ShoppingLists.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:21:16.523Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 53,
+              "Title": "ShoppingListItem.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\ShoppingListItem.cs",
+              "RelativeDocumentMoniker": "Repository\\Entities\\ShoppingListItem.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\ShoppingListItem.cs",
+              "RelativeToolTip": "Repository\\Entities\\ShoppingListItem.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-22T19:58:24.881Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 54,
+              "Title": "ShoppingListDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ShoppingListDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\ShoppingListDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ShoppingListDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\ShoppingListDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:16:30.938Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 57,
+              "Title": "ShoppingListItemController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ShoppingListItemController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\ShoppingListItemController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ShoppingListItemController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\ShoppingListItemController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAgwCkAAABBAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T15:51:44.505Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 55,
+              "Title": "ShoppingListsRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListsRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ShoppingListsRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListsRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ShoppingListsRepository.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAswCEAAAATAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:59:22.57Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 56,
+              "Title": "ShoppingListController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ShoppingListController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\ShoppingListController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ShoppingListController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\ShoppingListController.cs",
+              "ViewState": "AgIAAE8AAAAAAAAAAAAAwHAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-11T16:08:06.846Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 75,
+              "Title": "PriceCalculatorService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\PriceCalculatorService.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartShopping-C-\\Service\\Utils\\PriceCalculatorService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\PriceCalculatorService.cs",
+              "RelativeToolTip": "..\\..\\SmartShopping-C-\\Service\\Utils\\PriceCalculatorService.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAAACEAAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:57:46.925Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 58,
+              "Title": "StoresDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\StoresDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\StoresDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\StoresDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\StoresDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:09:19.126Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 76,
+              "Title": "BestStoreResultDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs",
+              "RelativeToolTip": "..\\..\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T15:55:30.334Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 59,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\ProductController.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\ProductController.cs",
+              "ViewState": "AgIAABMAAAAAAAAAAAAuwCkAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T12:34:48.85Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 60,
+              "Title": "StoreRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\StoreRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\StoreRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\StoreRepository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\StoreRepository.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAIwBMAAAAlAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-04T16:13:14.791Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 61,
+              "Title": "ShoppingListItemRpository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListItemRpository.cs",
+              "RelativeDocumentMoniker": "Repository\\Repositories\\ShoppingListItemRpository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\ShoppingListItemRpository.cs",
+              "RelativeToolTip": "Repository\\Repositories\\ShoppingListItemRpository.cs",
+              "ViewState": "AgIAABcAAAAAAAAAAAAswDUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T20:41:29.602Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 77,
+              "Title": "20250702142742_AddNewCaluomPriceToAllProdutsStores.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\Migrations\\20250702142742_AddNewCaluomPriceToAllProdutsStores.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartShopping-C-\\Mock\\Migrations\\20250702142742_AddNewCaluomPriceToAllProdutsStores.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\Migrations\\20250702142742_AddNewCaluomPriceToAllProdutsStores.cs",
+              "RelativeToolTip": "..\\..\\SmartShopping-C-\\Mock\\Migrations\\20250702142742_AddNewCaluomPriceToAllProdutsStores.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T14:27:42.37Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 78,
+              "Title": "20250702125141_AddNewTableAndUpdateExisting.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\Migrations\\20250702125141_AddNewTableAndUpdateExisting.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartShopping-C-\\Mock\\Migrations\\20250702125141_AddNewTableAndUpdateExisting.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Mock\\Migrations\\20250702125141_AddNewTableAndUpdateExisting.cs",
+              "RelativeToolTip": "..\\..\\SmartShopping-C-\\Mock\\Migrations\\20250702125141_AddNewTableAndUpdateExisting.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-02T12:51:41.667Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 62,
+              "Title": "ProductDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ProductDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\ProductDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ProductDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\ProductDto.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAADwvzcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-17T11:12:00.508Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 63,
+              "Title": "ShoppingListItemDto.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ShoppingListItemDto.cs",
+              "RelativeDocumentMoniker": "Common\\DTOs\\ShoppingListItemDto.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\ShoppingListItemDto.cs",
+              "RelativeToolTip": "Common\\DTOs\\ShoppingListItemDto.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-05T19:19:58.493Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 64,
+              "Title": "Repository.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repository.csproj",
+              "RelativeDocumentMoniker": "Repository\\Repository.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repository.csproj",
+              "RelativeToolTip": "Repository\\Repository.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T11:10:36.686Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 65,
               "Title": "SmartShoppingApplication.csproj",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\SmartShoppingApplication.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\SmartShoppingApplication.csproj",
               "RelativeDocumentMoniker": "SmartShoppingApplication\\SmartShoppingApplication.csproj",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\SmartShoppingApplication.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\SmartShoppingApplication.csproj",
               "RelativeToolTip": "SmartShoppingApplication\\SmartShoppingApplication.csproj",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
@@ -472,60 +1166,23 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 37,
-              "Title": "IService.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Interfaces\\IService.cs",
-              "RelativeDocumentMoniker": "Service\\Interfaces\\IService.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Interfaces\\IService.cs",
-              "RelativeToolTip": "Service\\Interfaces\\IService.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T11:48:10.528Z"
+              "DocumentIndex": 66,
+              "Title": "Common.csproj",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Common.csproj",
+              "RelativeDocumentMoniker": "Common\\Common.csproj",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Common.csproj",
+              "RelativeToolTip": "Common\\Common.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-06-17T11:08:02.958Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
-              "Title": "MapperProfile.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\MapperProfile.cs",
-              "RelativeDocumentMoniker": "Service\\Utils\\MapperProfile.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\MapperProfile.cs",
-              "RelativeToolTip": "Service\\Utils\\MapperProfile.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAwAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:14:47.454Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 24,
-              "Title": "User.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\User.cs",
-              "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\User.cs",
-              "RelativeToolTip": "Repository\\Entities\\User.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-05T14:42:37.264Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 40,
-              "Title": "UserController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserController.cs",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserController.cs",
-              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\UserController.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAQwBwAAABBAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-15T10:38:49.957Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 67,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Class1.cs",
               "RelativeDocumentMoniker": "Common\\Class1.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Common\\Class1.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\Class1.cs",
               "RelativeToolTip": "Common\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -533,11 +1190,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 68,
+              "Title": "Microsoft.Common.CurrentVersion.targets",
+              "DocumentMoniker": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeDocumentMoniker": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ToolTip": "C:\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "RelativeToolTip": "..\\..\\..\\..\\..\\..\\..\\..\\..\\Program Files\\Microsoft Visual Studio\\2022\\Enterprise\\MSBuild\\Current\\Bin\\amd64\\Microsoft.Common.CurrentVersion.targets",
+              "ViewState": "AgIAALoLAAAAAAAAAAAowMALAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003801|",
+              "WhenOpened": "2025-06-05T19:59:32.657Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 72,
+              "Title": "IService.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Interfaces\\IService.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartShopping-C-\\Service\\Interfaces\\IService.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Interfaces\\IService.cs",
+              "RelativeToolTip": "..\\..\\SmartShopping-C-\\Service\\Interfaces\\IService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-25T11:48:10.528Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 69,
               "Title": "launchSettings.json",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Properties\\launchSettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Properties\\launchSettings.json",
               "RelativeDocumentMoniker": "SmartShoppingApplication\\Properties\\launchSettings.json",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Properties\\launchSettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Properties\\launchSettings.json",
               "RelativeToolTip": "SmartShoppingApplication\\Properties\\launchSettings.json",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
@@ -545,108 +1226,35 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 38,
+              "DocumentIndex": 73,
               "Title": "UserLoginDto.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserLoginDto.cs",
-              "RelativeDocumentMoniker": "Service\\DTOs\\UserLoginDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartShopping-C-\\Service\\DTOs\\UserLoginDto.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserLoginDto.cs",
-              "RelativeToolTip": "Service\\DTOs\\UserLoginDto.cs",
+              "RelativeToolTip": "..\\..\\SmartShopping-C-\\Service\\DTOs\\UserLoginDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAjAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-26T13:06:56.198Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
-              "Title": "Store.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\Store.cs",
-              "RelativeDocumentMoniker": "Repository\\Entities\\Store.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\Store.cs",
-              "RelativeToolTip": "Repository\\Entities\\Store.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAABcAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:42:41.759Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 39,
+              "DocumentIndex": 74,
               "Title": "UserSignUpDto.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserSignUpDto.cs",
-              "RelativeDocumentMoniker": "Service\\DTOs\\UserSignUpDto.cs",
+              "RelativeDocumentMoniker": "..\\..\\SmartShopping-C-\\Service\\DTOs\\UserSignUpDto.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\DTOs\\UserSignUpDto.cs",
-              "RelativeToolTip": "Service\\DTOs\\UserSignUpDto.cs",
+              "RelativeToolTip": "..\\..\\SmartShopping-C-\\Service\\DTOs\\UserSignUpDto.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-06-04T16:28:26.317Z"
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
-              "Title": "Product.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\Product.cs",
-              "RelativeDocumentMoniker": "Repository\\Entities\\Product.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\Product.cs",
-              "RelativeToolTip": "Repository\\Entities\\Product.cs",
-              "ViewState": "AgIAAAsAAAAAAAAAAAAAwBIAAAApAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:36:39.101Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "Price.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\Price.cs",
-              "RelativeDocumentMoniker": "Repository\\Entities\\Price.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Entities\\Price.cs",
-              "RelativeToolTip": "Repository\\Entities\\Price.cs",
-              "ViewState": "AgIAAA4AAAAAAAAAAAAAwBMAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-04T15:31:01.875Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 31,
-              "Title": "ImageDownloader.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\ImageDownloader.cs",
-              "RelativeDocumentMoniker": "Service\\Utils\\ImageDownloader.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\ImageDownloader.cs",
-              "RelativeToolTip": "Service\\Utils\\ImageDownloader.cs",
-              "ViewState": "AgIAAC4AAAAAAAAAAAAmwDQAAAAJAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:38:17.562Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 33,
-              "Title": "PasswordHasher.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\PasswordHasher.cs",
-              "RelativeDocumentMoniker": "Service\\Utils\\PasswordHasher.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Utils\\PasswordHasher.cs",
-              "RelativeToolTip": "Service\\Utils\\PasswordHasher.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-26T13:14:54.157Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 32,
-              "Title": "ImagesController.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ImagesController.cs",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\ImagesController.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\ImagesController.cs",
-              "RelativeToolTip": "SmartShoppingApplication\\Controllers\\ImagesController.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAZAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-06-03T13:38:46.737Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 34,
+              "DocumentIndex": 70,
               "Title": "Class1.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Class1.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Class1.cs",
               "RelativeDocumentMoniker": "Service\\Class1.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Service\\Class1.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Class1.cs",
               "RelativeToolTip": "Service\\Class1.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
@@ -654,27 +1262,15 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 36,
+              "DocumentIndex": 71,
               "Title": "WeatherForecastController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D7\u05D3\u05E9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\WeatherForecastController.cs",
-              "RelativeDocumentMoniker": "..\\..\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D7\u05D3\u05E9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeDocumentMoniker": "..\\..\\..\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D7\u05D3\u05E9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\WeatherForecastController.cs",
               "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D7\u05D3\u05E9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\WeatherForecastController.cs",
-              "RelativeToolTip": "..\\..\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D7\u05D3\u05E9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\WeatherForecastController.cs",
+              "RelativeToolTip": "..\\..\\..\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05D7\u05D3\u05E9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\WeatherForecastController.cs",
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-05-25T12:35:00.056Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 35,
-              "Title": "IContext.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Interfaces\\IContext.cs",
-              "RelativeDocumentMoniker": "Repository\\Interfaces\\IContext.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\SmartShopping-C-\\Repository\\Interfaces\\IContext.cs",
-              "RelativeToolTip": "Repository\\Interfaces\\IContext.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAABGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-05-25T11:24:24.265Z"
             }
           ]
         }

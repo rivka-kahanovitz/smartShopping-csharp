@@ -45,4 +45,13 @@ namespace common.DTOs
         public string Barcode { get; set; }
 
     }
+    public class ProductPriceResultDto
+    {
+        public string Barcode { get; set; }
+        public string ProductName { get; set; }
+        public string ChainName { get; set; }
+        public string StoreName { get; set; }
+        public decimal Price { get; set; }
+    }
+
 }

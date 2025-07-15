@@ -18,6 +18,8 @@ namespace Service
             services.AddScoped<IService<ProductDto>, ProductService>();
             services.AddScoped<IService <UserDto>, UserService>();
             services.AddScoped<IService <ShoppingListItemDto>, ShoppingListItemService>();
+            services.AddScoped<IService <StoreDto>, StoreService>();
+            services.AddScoped<IService <AllProductStoreDto>, AllProductStoreService>();
 
 
             // תוכל/י להוסיף כאן שירותים נוספים בהמשך לדוגמה:
@@ -26,6 +28,8 @@ namespace Service
             services.AddScoped<IRepository<ShoppingList>, ShoppingListsRepository>();
             services.AddScoped<IRepository<ShoppingListItem>, ShoppingListItemRpository>();
             services.AddScoped<IRepository<Product>, ProductRepository>();
+            services.AddScoped<IRepository<Stores>, StoresRepository>();
+            services.AddScoped<IRepository<AllProductsStores>, AllProductStoresRepository>();
 
             return services;
         }

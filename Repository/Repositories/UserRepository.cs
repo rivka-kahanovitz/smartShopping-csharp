@@ -10,7 +10,7 @@ using Repository.Interfaces;
 using System.Diagnostics;
 namespace Repository.Repositories
 {
-    public class UserRepository : IRepository<User>
+    public class UserRepository : IUserRepository
     {
         private readonly IContext context;
         public UserRepository(IContext context)
@@ -33,6 +33,10 @@ namespace Repository.Repositories
             Console.WriteLine(user); // או Console.WriteLine אם את בודקת בקונסול
             return user;
 
+        }
+        public User GetByEmail(string email)
+        {
+            return context.Users.FirstOrDefault(u => u.Email == email);
         }
 
         public User Put(int id, User item)

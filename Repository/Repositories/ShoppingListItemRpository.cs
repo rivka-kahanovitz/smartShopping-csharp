@@ -18,6 +18,7 @@ namespace Repository.Repositories
         public ShoppingListItem Add(ShoppingListItem item)
         {
             context.ShoppingListItems.Add(item);
+            Console.WriteLine(item.ListId);
             context.Save();
             return item;
         }

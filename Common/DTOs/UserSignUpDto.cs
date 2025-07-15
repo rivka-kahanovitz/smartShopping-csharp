@@ -15,5 +15,6 @@ namespace common.DTOs
 
         [Required(ErrorMessage = "enter password")]
         public string Password { get; set; }
+        //public string Address { get; set; }
     }
 }
