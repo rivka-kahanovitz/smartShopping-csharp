@@ -3,6 +3,10 @@
   "WorkspaceRootPath": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\usersignupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\controllers\\usersignupcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
@@ -121,10 +125,6 @@
     {
       "AbsoluteMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\common\\dtos\\beststoreresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{628BC1BE-7B36-4322-ADFB-4F48F474C886}|Common\\Common.csproj|solutionrelative:common\\dtos\\beststoreresultdto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
-      "RelativeMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|solutionrelative:smartshoppingapplication\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{79EFB01D-C384-434F-912E-2851DF79A63E}|SmartShoppingApplication\\SmartShoppingApplication.csproj|c:\\users\\user1\\desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\c#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\smartshopping-c-\\smartshoppingapplication\\controllers\\imagescontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -326,18 +326,6 @@
             {
               "$type": "Document",
               "DocumentIndex": 6,
-              "Title": "IUserRepository.cs",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IUserRepository.cs",
-              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepository.cs",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IUserRepository.cs",
-              "RelativeToolTip": "Repository\\Interfaces\\IUserRepository.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-06T05:13:26.043Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
               "Title": "UserRepository.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Repositories\\UserRepository.cs",
               "RelativeDocumentMoniker": "Repository\\Repositories\\UserRepository.cs",
@@ -349,7 +337,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 5,
               "Title": "UserService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\UserService.cs",
@@ -361,7 +349,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 4,
               "Title": "UserSignUpService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserSignUpService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\UserSignUpService.cs",
@@ -373,7 +361,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 2,
+              "DocumentIndex": 3,
               "Title": "UserController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserController.cs",
               "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserController.cs",
@@ -385,7 +373,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 2,
               "Title": "UserLoginController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserLoginController.cs",
               "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserLoginController.cs",
@@ -397,7 +385,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 0,
+              "DocumentIndex": 1,
               "Title": "UserSignUpController.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
               "RelativeDocumentMoniker": "SmartShoppingApplication\\Controllers\\UserSignUpController.cs",
@@ -410,7 +398,32 @@
             },
             {
               "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
+              "RelativeDocumentMoniker": "SmartShoppingApplication\\appsettings.json",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
+              "RelativeToolTip": "SmartShoppingApplication\\appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-05-26T12:03:09.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
               "DocumentIndex": 7,
+              "Title": "IUserRepository.cs",
+              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeDocumentMoniker": "Repository\\Interfaces\\IUserRepository.cs",
+              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Interfaces\\IUserRepository.cs",
+              "RelativeToolTip": "Repository\\Interfaces\\IUserRepository.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-06T05:13:26.043Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
               "Title": "User.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Repository\\Entities\\User.cs",
               "RelativeDocumentMoniker": "Repository\\Entities\\User.cs",
@@ -422,7 +435,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 8,
+              "DocumentIndex": 9,
               "Title": "UserLoginDto.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserLoginDto.cs",
               "RelativeDocumentMoniker": "Common\\DTOs\\UserLoginDto.cs",
@@ -434,7 +447,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 9,
+              "DocumentIndex": 10,
               "Title": "UserDto.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserDto.cs",
               "RelativeDocumentMoniker": "Common\\DTOs\\UserDto.cs",
@@ -446,7 +459,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 10,
+              "DocumentIndex": 11,
               "Title": "UserSignUpDto.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\UserSignUpDto.cs",
               "RelativeDocumentMoniker": "Common\\DTOs\\UserSignUpDto.cs",
@@ -458,7 +471,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 11,
+              "DocumentIndex": 12,
               "Title": "DataBase.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Mock\\DataBase.cs",
               "RelativeDocumentMoniker": "Mock\\DataBase.cs",
@@ -470,7 +483,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 12,
+              "DocumentIndex": 13,
               "Title": "ShoppingRecommendationService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\ShoppingRecommendationService.cs",
               "RelativeDocumentMoniker": "Service\\Utils\\ShoppingRecommendationService.cs",
@@ -482,7 +495,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 13,
+              "DocumentIndex": 14,
               "Title": "TokenGenerator.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\TokenGenerator.cs",
               "RelativeDocumentMoniker": "Service\\Utils\\TokenGenerator.cs",
@@ -494,7 +507,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 18,
+              "DocumentIndex": 19,
               "Title": "PasswordHasher.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\PasswordHasher.cs",
               "RelativeDocumentMoniker": "Service\\Utils\\PasswordHasher.cs",
@@ -506,7 +519,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 14,
+              "DocumentIndex": 15,
               "Title": "SmtpSettings.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\SmtpSettings.cs",
               "RelativeDocumentMoniker": "Service\\Utils\\SmtpSettings.cs",
@@ -518,7 +531,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 15,
+              "DocumentIndex": 16,
               "Title": "MapperProfile.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\MapperProfile.cs",
               "RelativeDocumentMoniker": "Service\\Utils\\MapperProfile.cs",
@@ -530,7 +543,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 16,
+              "DocumentIndex": 17,
               "Title": "ImageDownloader.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\ImageDownloader.cs",
               "RelativeDocumentMoniker": "Service\\Utils\\ImageDownloader.cs",
@@ -542,7 +555,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 17,
+              "DocumentIndex": 18,
               "Title": "WeatherForecast.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\WeatherForecast.cs",
               "RelativeDocumentMoniker": "SmartShoppingApplication\\WeatherForecast.cs",
@@ -554,7 +567,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 19,
+              "DocumentIndex": 20,
               "Title": "EmailSender.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Utils\\EmailSender.cs",
               "RelativeDocumentMoniker": "Service\\Utils\\EmailSender.cs",
@@ -566,7 +579,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 20,
+              "DocumentIndex": 21,
               "Title": "UserloginService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\UserloginService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\UserloginService.cs",
@@ -578,7 +591,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 21,
+              "DocumentIndex": 22,
               "Title": "StoreService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\StoreService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\StoreService.cs",
@@ -590,7 +603,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 22,
+              "DocumentIndex": 23,
               "Title": "ShoppingListService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ShoppingListService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\ShoppingListService.cs",
@@ -602,7 +615,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 23,
+              "DocumentIndex": 24,
               "Title": "ShoppingListItemService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ShoppingListItemService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\ShoppingListItemService.cs",
@@ -614,7 +627,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 24,
+              "DocumentIndex": 25,
               "Title": "ProductService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ProductService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\ProductService.cs",
@@ -626,7 +639,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 25,
+              "DocumentIndex": 26,
               "Title": "ExtensionService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\ExtensionService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\ExtensionService.cs",
@@ -638,7 +651,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 26,
+              "DocumentIndex": 27,
               "Title": "AllProductStoresService.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Service\\Service\\AllProductStoresService.cs",
               "RelativeDocumentMoniker": "Service\\Service\\AllProductStoresService.cs",
@@ -650,7 +663,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 27,
+              "DocumentIndex": 28,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\Program.cs",
               "RelativeDocumentMoniker": "SmartShoppingApplication\\Program.cs",
@@ -662,7 +675,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 28,
+              "DocumentIndex": 29,
               "Title": "BasketDto.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\BasketDto.cs",
               "RelativeDocumentMoniker": "Common\\DTOs\\BasketDto.cs",
@@ -674,7 +687,7 @@
             },
             {
               "$type": "Document",
-              "DocumentIndex": 29,
+              "DocumentIndex": 30,
               "Title": "BestStoreResultDto.cs",
               "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\Common\\DTOs\\BestStoreResultDto.cs",
               "RelativeDocumentMoniker": "Common\\DTOs\\BestStoreResultDto.cs",
@@ -683,18 +696,6 @@
               "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAWAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-07-06T17:47:32.278Z"
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 30,
-              "Title": "appsettings.json",
-              "DocumentMoniker": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
-              "RelativeDocumentMoniker": "SmartShoppingApplication\\appsettings.json",
-              "ToolTip": "C:\\Users\\user1\\Desktop\\\u05DC\u05D9\u05DE\u05D5\u05D3\u05D9\u05DD\\\u05E9\u05E0\u05D4 \u05D1\\C#\\\u05E4\u05E8\u05D5\u05D9\u05E7\u05D8 \u05DE 3.6\\\u05E2\u05D3\u05DB\u05E0\u05D9\\SmartShopping-C-\\SmartShoppingApplication\\appsettings.json",
-              "RelativeToolTip": "SmartShoppingApplication\\appsettings.json",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
-              "WhenOpened": "2025-05-26T12:03:09.473Z"
             },
             {
               "$type": "Document",
