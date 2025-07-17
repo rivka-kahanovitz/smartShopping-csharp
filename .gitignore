@@ -34,3 +34,5 @@ Thumbs.db
 # קבצים פרטיים / סיסמאות (אם את לא שמה מידע סודי — את יכולה להשאיר רק את production)
 appsettings.Development.json
 secrets.json
+**/appsettings.json
+
